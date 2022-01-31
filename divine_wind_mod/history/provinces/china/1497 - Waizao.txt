@@ -1,6 +1,9 @@
+trade_goods = silk
+life_rating = 32
+
+1800.1.1 = {
 owner = GXI
 controller = GXI
 add_core = CHI
 add_core = GXI
-trade_goods = silk
-life_rating = 32
+}

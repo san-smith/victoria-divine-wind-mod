@@ -1,6 +1,9 @@
+trade_goods = tea
+life_rating = 32
+
+1800.1.1 = {
 owner = YNN
 controller = YNN
 add_core = YNN
 add_core = CHI
-trade_goods = tea
-life_rating = 32
+}

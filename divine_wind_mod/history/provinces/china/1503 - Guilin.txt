@@ -1,7 +1,10 @@
-add_core = CHI
-add_core = GXI
 trade_goods = cotton
 life_rating = 32
 
+
+1800.1.1 = {
+add_core = CHI
+add_core = GXI
 owner = GXI
 controller = GXI
+}
