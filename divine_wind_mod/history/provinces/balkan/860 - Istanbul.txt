@@ -1,10 +1,6 @@
-owner = TUR
-controller = TUR
-add_core = TUR
 trade_goods = fruit
 life_rating = 35
-naval_base = 1
-fort = 1
+
 #state_building = {
 #	level = 1
 #	building = cement_factory
@@ -20,6 +16,14 @@ fort = 1
 #	building = canned_food_factory
 #	upgrade = yes
 #}
+
+1800.1.1 = {
+	naval_base = 1
+	fort = 1
+	owner = TUR
+	controller = TUR
+	add_core = TUR
+}
 1861.1.1 = {
 	state_building = {
 		level = 2
