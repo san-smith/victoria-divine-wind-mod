@@ -1,9 +1,12 @@
+trade_goods = cattle
+life_rating = 35
+
+1800.1.1 = {
 owner = BEL
 controller = BEL
 add_core = BEL
 add_core = NET
 add_core = FLA
-trade_goods = cattle
-life_rating = 35
 railroad = 1
+}
 1861.1.1 = { railroad = 3 }
