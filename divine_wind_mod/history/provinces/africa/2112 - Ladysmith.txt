@@ -1,6 +1,8 @@
+trade_goods = grain
+life_rating = 35
+1800.1.1 = {
 owner = ZUL
 controller = ZUL
 add_core = ZUL
 add_core = SAF
-trade_goods = grain
-life_rating = 35
+}

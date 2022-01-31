@@ -1,2 +1,4 @@
 trade_goods = fruit
 life_rating = 35
+1800.1.1 = {
+}

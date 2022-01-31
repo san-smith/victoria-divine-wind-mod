@@ -1,3 +1,5 @@
-trade_goods = coffee
 life_rating = 15
-add_core = LIB
+trade_goods = coffee
+1800.1.1 = {
+    add_core = LIB
+}
