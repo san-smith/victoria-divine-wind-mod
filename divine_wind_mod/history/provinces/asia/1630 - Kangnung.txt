@@ -1,5 +1,8 @@
+trade_goods = grain
+life_rating = 35
+
+1800.1.1 = {
 owner = KOR
 controller = KOR
 add_core = KOR
-trade_goods = grain
-life_rating = 35
+}

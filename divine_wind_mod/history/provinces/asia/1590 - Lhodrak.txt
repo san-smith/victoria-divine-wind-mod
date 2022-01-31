@@ -1,5 +1,8 @@
+trade_goods = cattle
+life_rating = 25
+
+1800.1.1 = {
 owner = TIB
 controller = TIB
 add_core = TIB
-trade_goods = cattle
-life_rating = 25
+}

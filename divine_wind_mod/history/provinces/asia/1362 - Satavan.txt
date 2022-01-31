@@ -1,5 +1,8 @@
+trade_goods = tobacco
+life_rating = 30
+
+1800.1.1 = {
 owner = LUA
 controller = LUA
 add_core = LUA
-trade_goods = tobacco
-life_rating = 30
+}

@@ -1,5 +1,8 @@
+trade_goods = timber
+life_rating = 30
+
+1800.1.1 = {
 owner = JOH
 controller = JOH
 add_core = JOH
-trade_goods = timber
-life_rating = 30
+}
