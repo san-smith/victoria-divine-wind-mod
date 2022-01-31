@@ -1,6 +1,9 @@
+trade_goods = grain
+life_rating = 31
+
+1800.1.1 = {
 owner = FRA
 controller = FRA
 add_core = FRA
 add_core = CAT
-trade_goods = grain
-life_rating = 31
+}

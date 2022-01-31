@@ -1,9 +1,12 @@
+trade_goods = fish
+life_rating = 32
+
+1800.1.1 = {
 owner = FRA
 controller = FRA
 add_core = FRA
-trade_goods = fish
-life_rating = 32
 naval_base = 2
+}
 1861.1.1 = {
 	state_building = {
 		level = 1

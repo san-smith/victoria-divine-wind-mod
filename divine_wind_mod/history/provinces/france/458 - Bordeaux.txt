@@ -1,6 +1,3 @@
-owner = FRA
-controller = FRA
-add_core = FRA
 trade_goods = fruit
 life_rating = 31
 #state_building = {
@@ -8,6 +5,12 @@ life_rating = 31
 #	building = winery
 #	upgrade = yes
 #}
+
+1800.1.1 = {
+owner = FRA
+controller = FRA
+add_core = FRA
+}
 1861.1.1 = {
 	state_building = {
 		level = 1
