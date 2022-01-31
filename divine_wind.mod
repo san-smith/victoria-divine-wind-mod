@@ -1,0 +1,6 @@
+name = "Divine Wind Mode by san-smith"
+path = "mod/divine_wind_mod"
+user_dir = "DWM"
+# replace_path = "common"
+# replace_path = "history"
+# replace_path = "localisation"
