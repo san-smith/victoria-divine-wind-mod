@@ -22,7 +22,7 @@ def get_new_lines(file):
         
         return [
             *lines[replace_count : decl_end],
-            '1800.1.1 = {\n',
+            '\n1800.1.1 = {\n',
             *lines[:replace_count],
             '}\n',
             *lines[decl_end:],
