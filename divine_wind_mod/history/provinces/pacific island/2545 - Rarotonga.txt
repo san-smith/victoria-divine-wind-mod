@@ -1,3 +1,6 @@
 trade_goods = fish
 life_rating = 15
 terrain = plains
+
+1800.1.1 = {
+}
