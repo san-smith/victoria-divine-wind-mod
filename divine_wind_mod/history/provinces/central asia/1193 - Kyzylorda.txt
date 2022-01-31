@@ -1,5 +1,8 @@
+trade_goods = coal
+life_rating = 35
+
+1800.1.1 = {
 owner = KOK
 controller = KOK
 add_core = KOK
-trade_goods = coal
-life_rating = 35
+}

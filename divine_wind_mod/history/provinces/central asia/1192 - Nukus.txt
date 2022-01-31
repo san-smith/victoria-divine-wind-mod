@@ -1,5 +1,8 @@
+trade_goods = opium
+life_rating = 35
+
+1800.1.1 = {
 owner = KHI
 controller = KHI
 add_core = KHI
-trade_goods = opium
-life_rating = 35
+}
