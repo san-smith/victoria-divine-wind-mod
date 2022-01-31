@@ -1,8 +1,11 @@
+trade_goods = grain
+life_rating = 40
+
+
+1800.1.1 = {
 owner = HOL
 controller = HOL
 add_core = HOL
 add_core = GER
-trade_goods = grain
-life_rating = 40
-
+}
 1861.1.1 = { railroad = 3 }
