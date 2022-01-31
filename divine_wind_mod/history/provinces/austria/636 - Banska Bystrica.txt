@@ -1,8 +1,11 @@
+trade_goods = grain
+life_rating = 35
+
+1800.1.1 = {
 owner = AUS
 controller = AUS
 add_core = AUS
 add_core = SLV
 add_core = HUN
 add_core = CZH
-trade_goods = grain
-life_rating = 35
+}

@@ -1,6 +1,9 @@
+trade_goods = fruit
+life_rating = 35
+
+1800.1.1 = {
 owner = AUS
 controller = AUS
 add_core = AUS
 add_core = CRO
-trade_goods = fruit
-life_rating = 35
+}

@@ -1,9 +1,12 @@
+trade_goods = cattle
+life_rating = 35
+
+1800.1.1 = {
+add_core = RUT
 owner = AUS
 controller = AUS
 add_core = AUS
 add_core = MOL
 add_core = ROM
 #add_core = UKR
-add_core = RUT
-trade_goods = cattle
-life_rating = 35
+}

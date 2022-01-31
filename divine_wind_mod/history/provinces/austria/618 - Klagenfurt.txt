@@ -1,5 +1,8 @@
+trade_goods = coal
+life_rating = 35
+
+1800.1.1 = {
 owner = AUS
 controller = AUS
 add_core = AUS
-trade_goods = coal
-life_rating = 35
+}
