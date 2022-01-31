@@ -1,5 +1,8 @@
-owner = MEX
-controller = MEX
-add_core = MEX
 trade_goods = cattle
-life_rating = 35
+life_rating = 35
+
+1800.1.1 = {
+owner = MEX
+add_core = MEX
+controller = MEX
+}
