@@ -1,0 +1,44 @@
+leader = {
+	name = "Николя Жеффрар"
+	date = 1855.1.1
+	type = land
+	personality = unsound
+	background = elderly
+	prestige = 0.1
+}
+
+leader = {
+	name = "Эрар ди Ривьер"
+	date = 1848.1.1
+	type = land
+	personality = mediocre
+	background = generals_aide
+	prestige = 0.2
+}
+
+army = {
+	name = "Армия Гаити"
+	location = 2213
+	regiment = {
+		name= "1. Бригада"
+		type = infantry
+		home = 2213
+	}
+
+	regiment = {
+		name= "2. Бригада"
+		type = infantry
+		home = 2215
+	}
+}
+
+navy = {
+	name = "Флот Гаити"
+	location = 2213
+	ship = {
+		name= "Гаити"
+		type = frigate
+	}
+
+}
+

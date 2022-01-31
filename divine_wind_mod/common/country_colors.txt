@@ -524,7 +524,7 @@ SIC = {
     color3= { 131 101 85  }
 }
 
-# Siebenbürgen
+# Siebenbï¿½rgen
 SIE = {
     color1= { 75 111 205  }
     color2= { 124 140 162  }
@@ -1036,4 +1036,11 @@ TRA = {
     color1= { 215 59 53  }
     color2= { 122 182 242 }
     color3= { 255 255 255  }
+}
+
+# Novgorod
+NOV = {
+    color1= { 97 126 37  }
+    color2= { 236 159 89  }
+    color3= { 199 175 12  }
 }
