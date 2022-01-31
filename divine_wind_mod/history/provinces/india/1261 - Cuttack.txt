@@ -1,7 +1,9 @@
+trade_goods = grain
+life_rating = 32
+1800.1.1 = {
 owner = ENG
 controller = ENG
 add_core = ORI
 add_core = HND
-trade_goods = grain
-life_rating = 32
 colonial = 2
+}

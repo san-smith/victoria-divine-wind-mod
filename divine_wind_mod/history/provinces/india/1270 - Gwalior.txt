@@ -1,6 +1,9 @@
+trade_goods = dye
+life_rating = 32
+
+1800.1.1 = {
 owner = GWA
 controller = GWA
 add_core = GWA
 add_core = HND
-trade_goods = dye
-life_rating = 32
+}

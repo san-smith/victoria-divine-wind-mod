@@ -1,7 +1,10 @@
+trade_goods = opium
+life_rating = 32
+
+1800.1.1 = {
 owner = ENG
 controller = ENG
 add_core = HND
-trade_goods = opium
-life_rating = 32
 colonial = 2
+}
 1861.1.1 = { railroad = 3 }

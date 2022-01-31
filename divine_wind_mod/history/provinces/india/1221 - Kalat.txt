@@ -1,6 +1,9 @@
+trade_goods = wool
+life_rating = 32
+
+1800.1.1 = {
 owner = KAL
 controller = KAL
 add_core = KAL
 add_core = HND
-trade_goods = wool
-life_rating = 32
+}

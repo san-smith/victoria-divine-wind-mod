@@ -1,6 +1,9 @@
+trade_goods = wool
+life_rating = 32
+
+1800.1.1 = {
 owner = BIK
 controller = BIK
 add_core = BIK
 add_core = HND
-trade_goods = wool
-life_rating = 32
+}
