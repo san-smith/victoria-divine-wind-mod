@@ -1,5 +1,8 @@
+trade_goods = wool
+life_rating = 35
+
+1800.1.1 = {
 owner = URU
 controller = URU
 add_core = URU
-trade_goods = wool
-life_rating = 35
+}

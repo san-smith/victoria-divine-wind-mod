@@ -1,5 +1,10 @@
-owner = ARG
-controller = ARG
-add_core = ARG
+
+
 trade_goods = fruit
 life_rating = 35
+
+1800.1.1 = {
+owner = ARG
+add_core = ARG
+controller = ARG
+}
