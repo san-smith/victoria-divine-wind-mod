@@ -1,7 +1,10 @@
-add_core = COL
 trade_goods = fish
 life_rating = 35
 #add_core = USA
+
+1800.1.1 = {
+add_core = COL
+}
 1861.1.1 = {
 owner = USA
 controller = USA

@@ -1,8 +1,11 @@
-owner = USA
-controller = USA
-add_core = USA
 trade_goods = tobacco
 life_rating = 35
+
+1800.1.1 = {
+owner = USA
+add_core = USA
+controller = USA
+}
 1861.1.1 = {
 	owner = CSA
 	controller = CSA

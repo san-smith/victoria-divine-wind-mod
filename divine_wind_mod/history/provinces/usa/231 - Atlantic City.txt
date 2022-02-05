@@ -1,14 +1,17 @@
-owner = USA
-controller = USA
-add_core = USA
 trade_goods = fish
-naval_base = 1
 life_rating = 35
 #state_building = {
 #	level = 1
 #	building = canned_food_factory
 #	upgrade = yes
 #}
+
+1800.1.1 = {
+owner = USA
+controller = USA
+add_core = USA
+naval_base = 1
+}
 1861.1.1 = {
 	state_building = {
 		level = 1
