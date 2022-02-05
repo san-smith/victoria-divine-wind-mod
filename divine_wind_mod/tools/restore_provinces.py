@@ -32,7 +32,9 @@ def get_new_lines(file):
 path = args.path
 if path != None:
     file_list = os.listdir(path)
-    for file in file_list:
+    file_list = sorted(file_list)
+    for i in range(len(file_list)):
+        file = file_list[i]
         new_lines = get_new_lines(path + file)
         with open(path + file, 'w') as f:
             f.writelines(new_lines)
