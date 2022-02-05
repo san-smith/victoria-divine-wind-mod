@@ -1,3 +1,7 @@
+trade_goods = grain
+life_rating = 35
+
+1800.1.1 = {
 owner = RUS
 controller = RUS
 add_core = RUS
@@ -5,5 +9,4 @@ add_core = RUS
 #add_core = LIT
 add_core = BYE
 add_core = PLC
-trade_goods = grain
-life_rating = 35
+}

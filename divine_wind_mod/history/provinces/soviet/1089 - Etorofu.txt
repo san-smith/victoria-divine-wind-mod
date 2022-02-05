@@ -1,4 +1,7 @@
-add_core = RUS
-add_core = JAP
 trade_goods = fish
 life_rating = 20
+
+1800.1.1 = {
+add_core = RUS
+add_core = JAP
+}

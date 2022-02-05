@@ -1,11 +1,6 @@
-owner = RUS
-controller = RUS
-add_core = RUS
 trade_goods = grain
 life_rating = 35
-naval_base = 2
-fort = 1
-railroad = 1
+
 #state_building = {
 #	level = 1
 #	building = lumber_mill
@@ -16,6 +11,15 @@ railroad = 1
 #	building = cement_factory
 #	upgrade = yes
 #}
+
+1800.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	naval_base = 2
+	fort = 1
+	railroad = 1
+}
 1861.1.1 = { 
 	state_building = {
 		level = 1
