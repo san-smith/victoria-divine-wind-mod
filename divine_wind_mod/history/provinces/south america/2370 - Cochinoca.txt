@@ -1,4 +1,10 @@
-owner = BOLcontroller = BOLadd_core = BOL
-add_core = ARG
+
 trade_goods = wool
-life_rating = 30
+life_rating = 30
+
+1800.1.1 = {
+    owner = BOL
+    controller = BOL
+    add_core = BOL
+    add_core = ARG
+}
