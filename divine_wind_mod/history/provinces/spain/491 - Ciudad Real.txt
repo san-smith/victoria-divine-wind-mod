@@ -1,9 +1,16 @@
 trade_goods = grain
 life_rating = 35
 
+1300.1.1 = {
+	owner = CAS
+	controller = CAS
+	add_core = CAS
+}
+
 1800.1.1 = {
-owner = SPA
-controller = SPA
-add_core = SPA
+    owner = SPA
+    controller = SPA
+    add_core = SPA
+    remove_core = CAS
 }
 1861.1.1 = { railroad = 3 }
