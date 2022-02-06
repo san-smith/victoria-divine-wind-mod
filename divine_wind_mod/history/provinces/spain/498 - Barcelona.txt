@@ -6,11 +6,18 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = ARN
+    controller = ARN
+    add_core = ARN
+}
+
 1800.1.1 = {
-owner = SPA
-controller = SPA
-add_core = SPA
-add_core = CAT
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	add_core = CAT
+	remove_core = ARN
 }
 1861.1.1 = { 
 	state_building = {

@@ -317,3 +317,4 @@ D50		= "countries/D50.txt"
 #new for DivineWindMod
 NOV     = "countries/Novgorod.txt"
 CAS     = "countries/Castille.txt"
+ARN     = "countries/Aragon.txt"
