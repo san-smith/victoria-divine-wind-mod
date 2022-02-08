@@ -1,4 +1,4 @@
-name = "Divine Wind Mode by san-smith"
+name = "Divine Wind Mode"
 path = "mod/divine_wind_mod"
 user_dir = "DWM"
 replace_path = "common"
