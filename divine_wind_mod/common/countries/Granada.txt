@@ -2,7 +2,7 @@ color = { 210 220 175 }
 graphical_culture = MoroccoGC
 
 party = {
-	name = "GRA_conservative"
+	name = "GRA_conservative0"
 	start_date = 1399.1.1
 	end_date = 2000.1.1
 
