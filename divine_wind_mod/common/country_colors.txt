@@ -1086,3 +1086,25 @@ PRO = {
     color2= { 236 159 89  }
     color3= { 107 170 77  }
 }
+
+# Orleans
+ORL = {
+    color1= { 61 136 66  }
+    color2= { 94 117 55  }
+    color3= { 117 127 174  }
+}
+
+# Avignon
+AVI = {
+    color1= { 105 106 182  }
+    color2= { 39 108 140  }
+    color3= { 134 166 117  }
+}
+
+# Armagnac
+RMA = {
+    color1= { 252 233 58  }
+    color2= { 183 176 194  }
+    color3= { 119 151 122  }
+}
+
