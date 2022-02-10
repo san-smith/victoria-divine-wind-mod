@@ -1,9 +1,15 @@
 trade_goods = sulphur
 life_rating = 32
 
+1399.1.1 = {
+    owner = AVI
+    controller = AVI
+    add_core = AVI
+}
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
+    owner = FRA
+    controller = FRA
+    add_core = FRA
+	remove_core = AVI
 }
 1861.1.1 = { railroad = 3 }
