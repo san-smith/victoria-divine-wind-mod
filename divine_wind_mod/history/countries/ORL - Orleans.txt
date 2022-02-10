@@ -1,0 +1,24 @@
+capital = 438
+primary_culture = french
+religion = catholic
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.013
+civilized = yes
+
+
+
+ruling_party = ORL_conservative0
+last_election = 1300.1.1
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+
