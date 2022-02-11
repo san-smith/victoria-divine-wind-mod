@@ -1,6 +1,5 @@
 capital = 457
 primary_culture = french
-culture = french_canadian
 religion = catholic
 government = absolute_monarchy
 plurality = 0
