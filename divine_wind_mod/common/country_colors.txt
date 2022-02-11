@@ -1121,3 +1121,10 @@ BER = {
     color2= { 177 129 125  }
     color3= { 161 162 30  }
 }	
+
+# Bourbonnais
+BOU = {
+    color1= { 120 148 140  }
+    color2= { 107 94 169  }
+    color3= { 166 189 199  }
+}
