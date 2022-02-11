@@ -1,12 +1,20 @@
 trade_goods = fish
 life_rating = 32
 
-1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-naval_base = 2
+1300.1.1 = {
+    owner = POI
+    controller = POI
+    add_core = POI
 }
+
+1800.1.1 = {
+    owner = FRA
+    controller = FRA
+    add_core = FRA
+    remove_core = POI
+	naval_base = 2
+}
+
 1861.1.1 = {
 	state_building = {
 		level = 1
