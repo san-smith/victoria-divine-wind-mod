@@ -2,7 +2,7 @@ color = { 61  102  145 }
 graphical_culture = FrenchGC
 
 party = {
-	name = "AUV_conservative0"
+	name = "POI_conservative0"
 	start_date = 1300.1.1
 	end_date = 1870.1.1
 
