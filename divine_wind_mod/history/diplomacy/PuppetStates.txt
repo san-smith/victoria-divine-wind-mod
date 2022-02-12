@@ -293,3 +293,78 @@ vassal = {
 	start_date = 1861.1.1
 	end_date = 1936.1.1
 }
+
+##############################################
+#####           Divie Wind Mod           #####
+
+# France - Foix
+vassal = {
+	first = FRA
+	second = FOI
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Armagnac
+vassal = {
+	first = FRA
+	second = RMA
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Avignon
+vassal = {
+	first = FRA
+	second = AVI
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Orleans
+vassal = {
+	first = FRA
+	second = ORL
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Auvergne
+vassal = {
+	first = FRA
+	second = AUV
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Berry
+vassal = {
+	first = FRA
+	second = BEY
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Bourbonnais
+vassal = {
+	first = FRA
+	second = BOU
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Alencon
+vassal = {
+	first = FRA
+	second = ALE
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
+
+# France - Poitou
+vassal = {
+	first = FRA
+	second = POI
+	start_date = 1300.1.1
+	end_date = 1800.1.1
+}
