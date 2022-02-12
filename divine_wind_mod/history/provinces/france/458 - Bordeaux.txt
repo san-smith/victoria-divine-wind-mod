@@ -10,10 +10,10 @@ life_rating = 31
     add_core = RMA
 }
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
-remove_core = RMA
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = RMA
 }
 1861.1.1 = {
 	state_building = {

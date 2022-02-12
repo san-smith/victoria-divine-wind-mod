@@ -2,8 +2,14 @@ trade_goods = grain
 life_rating = 32
 #1861.1.1 = { railroad = 3 }
 
+1300.1.1 = {
+    owner = FRA
+    controller = FRA
+    add_core = FRA
+}
+
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
+    owner = FRA
+    controller = FRA
+    add_core = FRA
 }
