@@ -314,12 +314,18 @@ D48		= "countries/D48.txt"
 D49		= "countries/D49.txt"
 D50		= "countries/D50.txt"
 
-#new for DivineWindMod
+## DivineWindMod
+
+# Russia
 NOV     = "countries/Novgorod.txt"
+
+# Spain
 CAS     = "countries/Castille.txt"
 ARN     = "countries/Aragon.txt"
 NAV     = "countries/Navarra.txt"
 GRA     = "countries/Granada.txt"
+
+# France
 BRI     = "countries/Brittany.txt"
 FOI     = "countries/Foix.txt"
 PRO	    = "countries/Provence.txt"
@@ -332,3 +338,11 @@ BOU     = "countries/Bourbonnais.txt"
 ALE     = "countries/Alencon.txt"
 BUP     = "countries/Burgundy.txt"
 POI     = "countries/Poitou.txt"
+
+# low contries
+
+
+# Germany
+
+
+## United Kingdom
