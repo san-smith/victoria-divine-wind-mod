@@ -1038,12 +1038,20 @@ TRA = {
     color3= { 255 255 255  }
 }
 
+
+##############################################
+#####           Divie Wind Mod           #####
+
+## Russia
+
 # Novgorod
 NOV = {
     color1= { 97 126 37  }
     color2= { 236 159 89  }
     color3= { 199 175 12  }
 }
+
+## Spain
 
 # Castille
 CAS = {
@@ -1065,6 +1073,8 @@ NAV = {
     color2= { 39 108 140  }
     color3= { 17 16 203  }
 }
+
+## France
 
 # Brittany
 BRI = {
@@ -1142,3 +1152,12 @@ POI = {
     color2= { 116 137 43  }
     color3= { 115 84 105  }
 }
+
+
+## low contries
+
+
+## Germany
+
+
+## United Kingdom
