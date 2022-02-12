@@ -1116,7 +1116,7 @@ AUV = {
 }
 
 # Berry
-BER = {
+BEY = {
     color1= { 63 125 214  }
     color2= { 177 129 125  }
     color3= { 161 162 30  }
@@ -1127,6 +1127,13 @@ BOU = {
     color1= { 120 148 140  }
     color2= { 107 94 169  }
     color3= { 166 189 199  }
+}
+
+# Burgundy
+BUP = {
+    color1= { 148 30 70  }
+    color2= { 166 72 57  }
+    color3= { 107 170 77  }
 }
 
 # Poitou
