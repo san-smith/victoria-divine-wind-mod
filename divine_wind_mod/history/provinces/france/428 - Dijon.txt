@@ -16,10 +16,16 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = BUP
+	controller = BUP
+	add_core = BUP
+}	
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = BUP
 }
 1861.1.1 = {
 	state_building = {
