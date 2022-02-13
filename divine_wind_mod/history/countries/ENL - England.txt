@@ -1,0 +1,27 @@
+capital = 300
+primary_culture = english
+religion = protestant
+government = absolute_monarchy
+plurality = 5
+nationalvalue = nv_order
+literacy = 0.055
+civilized = yes
+
+1300.1.1 = {
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	nationalvalue = nv_order
+
+	#GreaterPowers = prestige
+	prestige = 80
+
+	ruling_party = ENL_conservative0
+	last_election = 1835.2.6
+	upper_house = {
+     fascist = 0
+	 liberal = 12
+     conservative = 83
+	 reactionary = 5
+	 anarcho_liberal = 0
+	 socialist = 0
+	 communist = 0
