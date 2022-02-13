@@ -1153,6 +1153,13 @@ POI = {
     color3= { 115 84 105  }
 }
 
+# Bar
+BAR = {
+    color1= { 168 40 110 }
+    color2= { 255 255 255 }
+    color3= { 100 30 154 }
+}
+
 
 ## low contries
 

@@ -338,6 +338,7 @@ BOU     = "countries/Bourbonnais.txt"
 ALE     = "countries/Alencon.txt"
 BUP     = "countries/Burgundy.txt"
 POI     = "countries/Poitou.txt"
+BAR	    = "countries/Bar.txt"
 
 # low contries
 
