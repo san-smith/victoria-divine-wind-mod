@@ -7,6 +7,9 @@ life_rating = 31
 #}
 
 1300.1.1 = {
+    owner = ENL
+	controller = ENL
+	add_core = FRA
     add_core = RMA
 }
 1800.1.1 = {
