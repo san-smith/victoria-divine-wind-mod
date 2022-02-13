@@ -346,3 +346,4 @@ POI     = "countries/Poitou.txt"
 
 
 ## United Kingdom
+ENL     ="countries/England.txt"
