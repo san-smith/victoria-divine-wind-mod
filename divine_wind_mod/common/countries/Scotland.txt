@@ -2,7 +2,7 @@ color = { 199  175  12 }
 graphical_culture = EuropeanGC
 
 party = {
-	name = "SCO_conservative"
+	name = "SCO_conservative0"
 	start_date = 1830.1.1
 	end_date = 1868.1.1
 

@@ -7,35 +7,78 @@ nationalvalue = nv_order
 literacy = 0.55
 civilized = yes
 
+1300.1.1 = {
+	government = absolute_monarchy
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	nationalvalue = nv_order
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = wealth_voting
-public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = non_socialist
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
+	#GreaterPowers = prestige
+	prestige = 10
 
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = trinket_health_care
-unemployment_subsidies = trinket_subsidies
-pensions = no_pensions 
-school_reforms = no_schools
+	ruling_party = SCO_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
 
-ruling_party = SCO_liberal
-upper_house = {
-	fascist = 1
-	liberal = 59
-	conservative = 29
-	reactionary = 12
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+
+1800.1.1 = {
+	literacy = 0.55
+	
+
+	# Political reforms
+	slavery = no_slavery
+	upper_house_composition = appointed
+	vote_franschise = wealth_voting
+	public_meetings = yes_meeting
+	press_rights = censored_press
+	trade_unions = non_socialist
+	voting_system = first_past_the_post
+	political_parties = non_secret_ballots
+	immigration_policy = nobody_gets_out
+	conscription = mandatory_service
+	minorities = oppression
+
+	# Social Reforms
+	wage_reform = no_minimum_wage
+	work_hours = no_work_hour_limit
+	safety_regulations = no_safety
+	health_care = trinket_health_care
+	unemployment_subsidies = trinket_subsidies
+	pensions = no_pensions
+	pollution = no_controls
+	child_labor = child_labor_legal
+	education = church
+	arts_endowment = no_endowment
+
+	ruling_party = SCO_liberal
+	last_election = 1834.6.21
+	upper_house = {
+		fascist = 0
+		liberal = 30
+		conservative = 50
+		reactionary = 20
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+	
+	govt_flag = {
+		government = hms_government
+		flag = presidential_dictatorship
+	}
+	govt_flag = {
+		government = prussian_constitutionalism
+		flag = presidential_dictatorship
+	}
 }
 
 1861.1.1 = {
@@ -45,4 +88,3 @@ upper_house = {
 # Technologies
 
 #Inventions
-}
