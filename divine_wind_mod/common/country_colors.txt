@@ -1168,3 +1168,10 @@ BAR = {
 
 
 ## United Kingdom
+
+# Connacht
+CNN = {
+    color1= { 255 255 255  }
+    color2= { 80 79 88  }
+    color3= { 134 166 117  }
+}
