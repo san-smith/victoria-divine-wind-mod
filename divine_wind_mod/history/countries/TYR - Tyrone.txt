@@ -1,0 +1,23 @@
+capital = 258
+primary_culture = irish 
+religion = catholic
+government = absolute_monarchy
+plurality = 6
+nationalvalue = nv_order
+literacy = 0.45
+civilized = yes
+
+1300.1.1 = {
+	plurality = 0.2
+	literacy = 0.042
+
+	ruling_party = TYR_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+}
