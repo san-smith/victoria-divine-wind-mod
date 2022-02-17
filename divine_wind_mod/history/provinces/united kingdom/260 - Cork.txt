@@ -1,12 +1,18 @@
 trade_goods = fish
 life_rating = 35
 
+1300.1.1 = {
+    owner = MNS
+	controller = MNS
+	add_core = MNS
+}	
 1800.1.1 = {
-owner = ENG
-controller = ENG
-add_core = ENG
-add_core = IRE
-naval_base = 2 #Base in Cobh, important since pre-Napoleonic times
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	add_core = IRE
+	remove_core = MNS
+	naval_base = 2 #Base in Cobh, important since pre-Napoleonic times
 }
 1861.1.1 = {
 	state_building = {
