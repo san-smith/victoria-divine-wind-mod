@@ -1,0 +1,26 @@
+capital = 411
+primary_culture = french
+culture = north_german
+religion = catholic
+government = absolute_monarchy
+plurality = 0.2
+nationalvalue = nv_order
+literacy = 0.45
+civilized = yes
+
+1300.1.1 = {
+	plurality = 0.2
+	literacy = 0.045
+
+	ruling_party = LOR_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+

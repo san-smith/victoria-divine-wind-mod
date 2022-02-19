@@ -1160,6 +1160,14 @@ BAR = {
     color3= { 100 30 154 }
 }
 
+# Lorraine
+LOR = {
+    color1= { 115 142 205  }
+    color2= { 166 72 57  }
+    color3= { 99 137 153  }
+}
+
+
 
 ## low contries
 
