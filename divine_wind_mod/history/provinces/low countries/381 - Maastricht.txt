@@ -11,9 +11,16 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = LIG
+    controller = LIG
+    add_core = LIG
+}
+
 1800.1.1 = {
-owner = NET
-controller = NET
-add_core = NET
+    owner = NET
+    controller = NET
+    add_core = NET
+    remove_core = LIG
 }
 1861.1.1 = { railroad = 3 }

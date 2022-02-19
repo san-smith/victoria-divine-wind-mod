@@ -1,0 +1,26 @@
+capital = 395
+primary_culture = wallonian
+culture = flemish
+religion = catholic
+government = theocracy_government
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.5
+civilized = yes
+
+
+
+1300.1.1 {
+	ruling_party = LIG_reactionary0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 0
+		reactionary = 100
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
