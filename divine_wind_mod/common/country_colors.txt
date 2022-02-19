@@ -1185,6 +1185,12 @@ BRB = {
     color3= { 166 189 199  }
 }
 
+# Liege
+LIG = {
+    color1= { 149 186 37  }
+    color2= { 136 157 23  }
+    color3= { 255 255 255  }
+}
 
 
 ## Germany
