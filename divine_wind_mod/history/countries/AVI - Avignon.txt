@@ -1,7 +1,7 @@
 capital = 467
 primary_culture = french
 religion = catholic
-government = absolute_monarchy
+government = theocracy_government
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.013
@@ -9,13 +9,13 @@ civilized = yes
 
 
 
-ruling_party = AVI_conservative0
+ruling_party = AVI_reactionary0
 last_election = 1300.1.1
 upper_house = {
 	fascist = 0
 	liberal = 0
-	conservative = 100
-	reactionary = 0
+	conservative = 0
+	reactionary = 100
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
