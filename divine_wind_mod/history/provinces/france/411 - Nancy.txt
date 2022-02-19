@@ -1,9 +1,16 @@
 trade_goods = dye
 life_rating = 30
 
+1300.1.1 = {
+    owner = LOR
+    controller = LOR
+    add_core = LOR
+}
+
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
+    owner = FRA
+    controller = FRA
+    add_core = FRA
+    remove_core = LOR
 }
 1861.1.1 = { railroad = 3 }

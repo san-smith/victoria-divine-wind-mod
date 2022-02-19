@@ -11,6 +11,7 @@ civilized = yes
 1300.1.1 = {
 	plurality = 0.2
 	literacy = 0.045
+	nationalvalue = nv_order
 
 	ruling_party = LUX_conservative0
 	upper_house = {
