@@ -342,6 +342,7 @@ BAR	    = "countries/Bar.txt"
 LOR	    = "countries/Lorraine.txt"
 
 # low contries
+HIN	    = "countries/Hainaut.txt"
 
 
 # Germany
