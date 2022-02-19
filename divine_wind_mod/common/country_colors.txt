@@ -1178,6 +1178,14 @@ HIN = {
     color3= { 187 79 86  }
 }
 
+# Brabant
+BRB = {
+    color1= { 118 193 153  }
+    color2= { 154 69 116  }
+    color3= { 166 189 199  }
+}
+
+
 
 ## Germany
 

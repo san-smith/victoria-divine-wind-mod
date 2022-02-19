@@ -1,6 +1,11 @@
 trade_goods = sulphur
 life_rating = 35
 
+1300.1.1 = {
+	owner = BRB
+	controller = BRB
+	add_core = BRB
+}
 
 1800.1.1 = {
 	owner = BEL
@@ -8,6 +13,7 @@ life_rating = 35
 	add_core = BEL
 	add_core = NET
 	add_core = FLA
+	remove_core = BRB
 	railroad = 1
 	state_building = {
 		level = 1

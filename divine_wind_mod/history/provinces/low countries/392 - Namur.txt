@@ -2,16 +2,17 @@ trade_goods = iron
 life_rating = 35
 
 1300.1.1 = {
-    owner = BUP
-	controller = BUP
-	add_core = BUP
-}	
+	owner = BRB
+	controller = BRB
+	add_core = BRB
+}
+
 1800.1.1 = {
 	owner = BEL
 	controller = BEL
 	add_core = BEL
 	add_core = NET
 	add_core = WLL
-	remove_core = BUP	
+	remove_core = BRB	
 }
 1861.1.1 = { railroad = 3 }
