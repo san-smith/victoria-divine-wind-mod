@@ -100,4 +100,9 @@ democracy = {
 	appoint_ruling_party = no
 }
  
-
+theocracy_government = {
+	reactionary = yes
+	
+	election = no
+	appoint_ruling_party = no
+}
