@@ -1171,6 +1171,13 @@ LOR = {
 
 ## low contries
 
+# Hainaut
+HIN = {
+    color1= { 43 42 130  }
+    color2= { 99 137 153  }
+    color3= { 187 79 86  }
+}
+
 
 ## Germany
 
