@@ -1192,6 +1192,13 @@ LIG = {
     color3= { 255 255 255  }
 }
 
+# Holland
+HLD = {
+    color1= { 156 96 100  }
+    color2= { 183 176 194  }
+    color3= { 122 179 97  }
+}
+
 
 ## Germany
 

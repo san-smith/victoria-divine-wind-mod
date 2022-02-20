@@ -345,6 +345,7 @@ LOR	    = "countries/Lorraine.txt"
 HIN	    = "countries/Hainaut.txt"
 BRB	    = "countries/Brabant.txt"
 LIG	    = "countries/Liege.txt"
+HLD	    = "countries/Holland.txt"
 
 # Germany
 
