@@ -6,6 +6,7 @@ life_rating = 32
 	controller = FOI
 	add_core = FOI
     add_core = RMA
+	add_core = FRA
 }
 1800.1.1 = {
     owner = FRA

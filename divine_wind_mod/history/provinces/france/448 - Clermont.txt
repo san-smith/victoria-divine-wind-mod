@@ -5,6 +5,7 @@ life_rating = 32
 	owner = AUV
 	controller = AUV
 	add_core = AUV
+	add_core = FRA
 }
 
 1800.1.1 = {

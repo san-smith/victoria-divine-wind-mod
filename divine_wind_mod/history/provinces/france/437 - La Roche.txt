@@ -5,6 +5,7 @@ life_rating = 35
     owner = POI
     controller = POI
     add_core = POI
+	add_core = FRA
 }
 
 1800.1.1 = {
