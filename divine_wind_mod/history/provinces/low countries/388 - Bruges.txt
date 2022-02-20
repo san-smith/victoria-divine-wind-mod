@@ -5,6 +5,7 @@ life_rating = 35
     owner = BUP
 	controller = BUP
 	add_core = BUP
+	add_core = FRA
 }	
 1800.1.1 = {
     owner = BEL

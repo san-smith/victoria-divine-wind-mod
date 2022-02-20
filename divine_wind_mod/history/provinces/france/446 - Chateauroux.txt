@@ -5,6 +5,7 @@ life_rating = 33
 	owner = BEY
 	controller = BEY
 	add_core = BEY
+	add_core = FRA
 }	
 1800.1.1 = {
     owner = FRA

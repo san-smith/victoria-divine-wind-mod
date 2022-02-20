@@ -5,6 +5,7 @@ life_rating = 31
     owner = RMA
     controller = RMA
     add_core = RMA
+	add_core = FRA
 }
 1800.1.1 = {
     owner = FRA
