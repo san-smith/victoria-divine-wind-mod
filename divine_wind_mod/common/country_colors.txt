@@ -1199,6 +1199,13 @@ HLD = {
     color3= { 122 179 97  }
 }
 
+# Utrecht
+UTR = {
+    color1= { 223 198 64  }
+    color2= { 202 112 85  }
+    color3= { 17 16 203  }
+}
+
 
 ## Germany
 

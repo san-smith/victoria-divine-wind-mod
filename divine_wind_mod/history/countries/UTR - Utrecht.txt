@@ -1,0 +1,25 @@
+capital = 394
+primary_culture = wallonian
+culture = french
+religion = catholic
+government = absolute_monarchy
+plurality = 0.005
+nationalvalue = nv_order
+literacy = 0.028
+civilized = yes
+
+
+
+1300.1.1 = {
+	ruling_party = UTR_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+
+}
