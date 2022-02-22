@@ -1209,6 +1209,12 @@ UTR = {
 
 ## Germany
 
+# Munster
+MUN = {
+    color1= { 85 112 167  }
+    color2= { 129 177 125  }
+    color3= { 121 162 109  }
+}
 
 ## United Kingdom
 

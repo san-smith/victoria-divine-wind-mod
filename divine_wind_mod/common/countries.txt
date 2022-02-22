@@ -349,7 +349,7 @@ HLD	    = "countries/Holland.txt"
 UTR	    = "countries/Utrecht.txt"
 
 # Germany
-
+MUN	    = "countries/Munster.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"
