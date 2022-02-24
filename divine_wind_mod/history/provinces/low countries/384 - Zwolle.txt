@@ -1,8 +1,14 @@
 trade_goods = fish
 life_rating = 35
 
+1300.1.1 = {
+    owner = GEL
+	controller = GEL
+	add_core = GEL
+}	
 1800.1.1 = {
-owner = NET
-controller = NET
-add_core = NET
+	owner = NET
+	controller = NET
+	add_core = NET
+	remove_core = GEL
 }

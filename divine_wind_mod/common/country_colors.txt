@@ -1205,6 +1205,13 @@ UTR = {
     color2= { 202 112 85  }
     color3= { 17 16 203  }
 }
+# Gelre
+GEL = {
+    color1= { 139 66 97  }
+    color2= { 80 79 88  }
+    color3= { 119 151 122  }
+}
+
 
 
 ## Germany
