@@ -1,0 +1,22 @@
+capital = 382
+primary_culture = dutch
+culture = flemish
+religion = catholic
+government = absolute_monarchy
+plurality = 0
+nationalvalue = nv_order
+literacy = 0.060
+civilized = yes
+
+
+ruling_party = GEL_conservative0
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
