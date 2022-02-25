@@ -1,0 +1,21 @@
+capital = 576
+primary_culture = north_german
+religion = protestant
+government = democracy
+plurality = 0.005
+nationalvalue = nv_orderа
+literacy = 0.13
+civilized = yes
+
+
+ruling_party = AAC_conservative0
+last_election = 1300.1.1
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
