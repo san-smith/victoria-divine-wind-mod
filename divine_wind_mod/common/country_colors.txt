@@ -1230,6 +1230,13 @@ MUN = {
     color3= { 121 162 109  }
 }
 
+# Trier
+TRR = {
+    color1= { 208 104 44  }
+    color2= { 154 69 116  }
+    color3= { 134 166 117  }
+}
+
 ## United Kingdom
 
 # Connacht
