@@ -1,6 +1,11 @@
 trade_goods = coal
 life_rating = 40
 
+1300.1.1 = {
+    owner = KOL
+	controller = KOL
+	add_core = KOL
+}
 #state_building = {
 #	level = 1
 #	building = steel_factory
@@ -12,6 +17,7 @@ life_rating = 40
 	controller = PRU
 	add_core = PRU
 	add_core = GER
+	remove_core = KOL
 	state_building = {
 		level = 1
 		building = fabric_factory
