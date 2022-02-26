@@ -353,6 +353,7 @@ GEL     = "countries/Gelre.txt"
 MUN	    = "countries/Munster.txt"
 AAC     = "countries/Aachen.txt" 
 KOL  	= "countries/Cologne.txt"
+CLE  	= "countries/Kleves.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"
