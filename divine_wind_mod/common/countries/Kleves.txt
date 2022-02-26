@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "CLE_conservative"
+	name = "CLE_conservative0"
 	start_date = 1878.1.1
 	end_date = 2000.1.1
 
