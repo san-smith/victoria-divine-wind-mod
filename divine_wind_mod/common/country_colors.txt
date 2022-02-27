@@ -1237,6 +1237,13 @@ TRR = {
     color3= { 134 166 117  }
 }
 
+# Hesse
+HSS = {
+    color1= { 114 171 184  }
+    color2= { 39 108 140  }
+    color3= { 195 149 155  }
+}
+
 ## United Kingdom
 
 # Connacht
