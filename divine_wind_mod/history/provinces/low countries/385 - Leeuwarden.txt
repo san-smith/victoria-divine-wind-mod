@@ -6,8 +6,14 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+	owner = FRI
+	controller = FRI
+	add_core = FRI
+}
 1800.1.1 = {
-owner = NET
-controller = NET
-add_core = NET
+	owner = NET
+	controller = NET
+	add_core = NET
+	remove_core = FRI
 }
