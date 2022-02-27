@@ -348,6 +348,7 @@ LIG	    = "countries/Liege.txt"
 HLD	    = "countries/Holland.txt"
 UTR	    = "countries/Utrecht.txt"
 GEL     = "countries/Gelre.txt"
+FRI     = "countries/Friesland.txt"
 
 # Germany
 MUN	    = "countries/Munster.txt"
