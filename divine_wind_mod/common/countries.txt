@@ -357,6 +357,7 @@ KOL  	= "countries/Cologne.txt"
 CLE  	= "countries/Kleves.txt"
 TRR 	= "countries/Trier.txt"
 HSS		= "countries/Hessen.txt"
+PAL		= "countries/Palatinate.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"

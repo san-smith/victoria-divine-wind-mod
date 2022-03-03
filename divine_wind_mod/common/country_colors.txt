@@ -1244,6 +1244,15 @@ HSS = {
     color3= { 195 149 155  }
 }
 
+# Palatinate
+PAL = {
+    color1= { 57 151 142  }
+    color2= { 236 159 89  }
+    color3= { 199 175 12  }
+}
+
+
+
 ## United Kingdom
 
 # Connacht
