@@ -1,11 +1,18 @@
 trade_goods = fish
 life_rating = 40
 
+1300.1.1 = {
+    owner = HSA
+    controller = HSA
+    add_core = HSA
+}
+
 1800.1.1 = {
-owner = LUB
-controller = LUB
-add_core = LUB
-add_core = GER
-naval_base = 1
+    owner = LUB
+    controller = LUB
+    add_core = LUB
+    add_core = GER
+    remove_core = HSA
+    naval_base = 1
 }
 1861.1.1 = { railroad = 3 }

@@ -106,3 +106,13 @@ theocracy_government = {
 	election = no
 	appoint_ruling_party = no
 }
+
+merchant_republic = {
+	liberal = yes
+	conservative = yes
+	reactionary = yes
+
+	duration = 48
+	election = yes
+	flagType = republic
+}

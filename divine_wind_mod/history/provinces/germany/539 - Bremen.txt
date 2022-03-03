@@ -2,6 +2,9 @@ trade_goods = fish
 life_rating = 40
 
 1300.1.1 = {
+    owner = HSA
+    controller = HSA
+    add_core = HSA
     add_core = BRE
 }
 
