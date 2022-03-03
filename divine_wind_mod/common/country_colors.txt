@@ -1251,6 +1251,13 @@ PAL = {
     color3= { 199 175 12  }
 }
 
+# Hansa
+HSA = {
+    color1= { 190 20 20  }
+    color2= { 255 255 255  }
+    color3= { 100 30 30  }
+}
+
 
 
 ## United Kingdom
