@@ -1265,6 +1265,13 @@ ANS = {
     color3= { 135 104 85  }
 }
 
+# Mainz
+MAI = {
+    color1= { 178 145 87  }
+    color2= { 126 203 120  }
+    color3= { 48 164 51  }
+}
+
 
 
 ## United Kingdom
