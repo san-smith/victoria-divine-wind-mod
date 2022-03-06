@@ -361,6 +361,7 @@ PAL		= "countries/Palatinate.txt"
 HSA	    = "countries/Hansa.txt"
 ANS 	= "countries/Ansbach.txt"
 MAI 	= "countries/Mainz.txt"
+ALS 	= "countries/Alsace.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"
