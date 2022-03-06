@@ -1272,6 +1272,13 @@ MAI = {
     color3= { 48 164 51  }
 }
 
+# Alsace
+ALS = {
+    color1= { 246 223 15  }
+    color2= { 99 137 153  }
+    color3= { 255 255 255  }
+}
+
 
 
 ## United Kingdom
