@@ -6,10 +6,15 @@ life_rating = 40
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+	owner = BAD
+	controller = BAD
+	add_core = BAD
+}
 1800.1.1 = {
-owner = BAD
-controller = BAD
-add_core = BAD
-add_core = GER
+	owner = BAD
+	controller = BAD
+	add_core = BAD
+	add_core = GER
 }
 1861.1.1 = { railroad = 3 }
