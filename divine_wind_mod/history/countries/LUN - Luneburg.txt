@@ -1,0 +1,18 @@
+capital = 532
+primary_culture = south_german
+religion = catholic
+government = absolute_monarchy
+plurality = 10.0
+nationalvalue = nv_order
+civilized = yes
+
+ruling_party = LUN_conservative0
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}

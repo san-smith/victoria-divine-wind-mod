@@ -1279,6 +1279,13 @@ ALS = {
     color3= { 255 255 255  }
 }
 
+# Luneburg
+LUN = {
+    color1= { 135 109 147  }
+    color2= { 161 126 128  }
+    color3= { 183 176 194  }
+}
+
 
 
 ## United Kingdom
