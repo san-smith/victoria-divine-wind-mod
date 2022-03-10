@@ -1,9 +1,15 @@
 trade_goods = timber
 life_rating = 40
 
+1300.1.1 = {
+	owner = WUR
+	controller = WUR
+	add_core = WUR
+}
 1800.1.1 = {
-owner = BAD
-controller = BAD
-add_core = BAD
-add_core = GER
+	owner = BAD
+	controller = BAD
+	add_core = BAD
+	add_core = GER
+	remove_core = WUR
 }
