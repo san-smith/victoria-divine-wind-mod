@@ -364,6 +364,7 @@ MAI 	= "countries/Mainz.txt"
 ALS 	= "countries/Alsace.txt"
 LUN 	= "countries/Luneburg.txt"
 BRN	    = "countries/Brandenburg.txt"
+POM	    = "countries/Pommerania.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"
