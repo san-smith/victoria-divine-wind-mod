@@ -1286,6 +1286,13 @@ LUN = {
     color3= { 183 176 194  }
 }
 
+# Brandenburg
+BRN = {
+    color1= { 193 65 54  }
+    color2= { 69 157 208  }
+    color3= { 210 106 47  }
+}
+
 
 
 ## United Kingdom
