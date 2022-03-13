@@ -1,0 +1,27 @@
+capital = 597
+primary_culture = south_german
+religion = protestant
+government = democracy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.8
+civilized = yes
+
+1300.1.1 = {
+	religion = catholic
+	government = theocracy_government
+	plurality = 0.25
+	nationalvalue = nv_order
+	literacy = 0.08
+
+	ruling_party = WBG_reactionary0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 0
+		reactionary = 100
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
