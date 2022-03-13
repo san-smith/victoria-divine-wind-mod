@@ -1,4 +1,4 @@
-color = { 155  147  180 }
+color = { 58  174  61 }
 graphical_culture = EuropeanGC
 
 party = {
@@ -16,7 +16,7 @@ party = {
 }
 
 party = {
-	name = "SAX_conservative0"
+	name = "MES_conservative0"
 	start_date = 1300.1.1
 	end_date = 2000.1.1
 
