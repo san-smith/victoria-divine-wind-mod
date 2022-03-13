@@ -1307,6 +1307,12 @@ WBG = {
     color3= { 135 104 85  }
 }
 
+# Magdeburg
+MAG = {
+    color1= { 189 115 99  }
+    color2= { 152 85 92  }
+    color3= { 193 26 14  }
+}
 
 
 
