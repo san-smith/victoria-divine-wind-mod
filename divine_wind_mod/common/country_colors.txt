@@ -1300,6 +1300,14 @@ POM = {
     color3= { 131 101 85  }
 }
 
+# Wurzburg
+WBG = {
+    color1= { 147 146 106  }
+    color2= { 195 149 155  }
+    color3= { 135 104 85  }
+}
+
+
 
 
 ## United Kingdom
