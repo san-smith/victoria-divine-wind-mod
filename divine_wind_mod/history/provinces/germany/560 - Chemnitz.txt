@@ -1,9 +1,16 @@
 trade_goods = iron
 life_rating = 40
 
+1300.1.1 = {
+	owner = MES
+	controller = MES
+	add_core = MES
+}
+
 1800.1.1 = {
-owner = SAX
-controller = SAX
-add_core = SAX
-add_core = GER
+    owner = SAX
+    controller = SAX
+    add_core = SAX
+    add_core = GER
+    remove_core = MES
 }

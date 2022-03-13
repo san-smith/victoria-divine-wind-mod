@@ -1314,6 +1314,13 @@ MAG = {
     color3= { 193 26 14  }
 }
 
+# Meissen
+MES = {
+    color1= { 58 174 61  }
+    color2= { 85 152 92  }
+    color3= { 26 193 14  }
+}
+
 
 
 ## United Kingdom

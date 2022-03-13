@@ -368,6 +368,7 @@ POM	    = "countries/Pommerania.txt"
 LAU     = "countries/Lauenburg.txt"
 WBG	    = "countries/Wurzburg.txt"
 MAG	    = "countries/Magdeburg.txt"
+MES	    = "countries/Meissen.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"

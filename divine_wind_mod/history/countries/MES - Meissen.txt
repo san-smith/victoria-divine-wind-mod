@@ -1,4 +1,4 @@
-capital = 559
+capital = 558
 primary_culture = north_german
 culture = south_german
 religion = protestant
@@ -14,7 +14,7 @@ civilized = yes
 	religion = catholic
 	literacy = 0.060
 	
-	ruling_party = SAX_conservative0
+	ruling_party = MES_conservative0
 	last_election = 1300.1.1
 	upper_house = {
 		fascist = 0
