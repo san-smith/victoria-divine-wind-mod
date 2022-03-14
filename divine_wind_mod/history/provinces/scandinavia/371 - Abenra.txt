@@ -1,11 +1,17 @@
 trade_goods = cattle
 life_rating = 35
 
+1300.1.1 = {
+	owner = HOL
+	controller = HOL
+	add_core = HOL
+	add_core = DEN
+}
 1800.1.1 = {
-owner = DEN
-controller = DEN
-add_core = DEN
-add_core = SCH
-add_core = GER
-add_core = SCA
+	owner = DEN
+	controller = DEN
+	add_core = DEN
+	add_core = SCH
+	add_core = GER
+	add_core = SCA
 }

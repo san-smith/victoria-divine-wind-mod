@@ -1,13 +1,17 @@
 trade_goods = cattle
 life_rating = 40
 
-
+1300.1.1 = {
+	owner = HOL
+	controller = HOL
+	add_core = HOL
+}
 1800.1.1 = {
-owner = HOL
-controller = HOL
-add_core = HOL
-add_core = GER
-naval_base = 1
+	owner = HOL
+	controller = HOL
+	add_core = HOL
+	add_core = GER
+	naval_base = 1
 }
 1861.1.1 = { railroad = 3 }
 1861.1.1 = {
