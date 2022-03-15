@@ -1,11 +1,6 @@
 trade_goods = cattle
 life_rating = 35
 
-1300.1.1 = {
-	owner = DEN
-	controller = DEN
-	add_core = DEN
-}
 1800.1.1 = {
 	owner = RUS
 	controller = RUS
@@ -13,6 +8,4 @@ life_rating = 35
 	add_core = LAT
 	add_core = UBD
 	add_core = PLC
-	remove_core = DEN
-	
 }
