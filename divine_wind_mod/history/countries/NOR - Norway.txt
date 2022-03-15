@@ -8,6 +8,26 @@ nationalvalue = nv_liberty
 literacy = 0.87
 civilized = yes
 
+1300.1.1 = {
+	government = absolute_monarchy
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	
+	ruling_party = NOR_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+1800.1.1 = {
+
 
 # Political reforms
 slavery = no_slavery
