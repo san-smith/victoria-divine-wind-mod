@@ -1,11 +1,16 @@
 trade_goods = fish
 life_rating = 35
 
+1300.1.1 = {
+	owner = NOR 
+	controller = NOR 
+	add_core = NOR 
+}
 1800.1.1 = {
-owner = DEN
-controller = DEN
-add_core = DEN
-add_core = ICL
-add_core = SCA
-colonial = 2
+	owner = DEN
+	controller = DEN
+	add_core = DEN
+	add_core = ICL
+	add_core = SCA
+	colonial = 2
 }

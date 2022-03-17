@@ -2,8 +2,8 @@ color = { 87  130  199 }
 graphical_culture = SwedishGC
 
 party = {
-	name = "SWE_conservative"
-	start_date = 1830.1.1
+	name = "SWE_conservative0"
+	start_date = 1399.1.1
 	end_date = 1890.1.1
 
 	ideology = conservative
