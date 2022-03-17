@@ -15,13 +15,19 @@ life_rating = 35
 #	level = 1
 #	building = small_arms_factory
 #	upgrade = yes
-#}
+#
+
+1300.1.1 = {
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+}
 
 1800.1.1 = {
-owner = SWE
-controller = SWE
-add_core = SWE
-add_core = SCA
-naval_base = 1
+	owner = SWE
+	controller = SWE
+	add_core = SWE
+	add_core = SCA
+	naval_base = 1
 }
 1861.1.1 = { railroad = 3 }
