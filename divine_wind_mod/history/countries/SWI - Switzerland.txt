@@ -1,12 +1,32 @@
 capital = 605
 primary_culture = swiss
-religion = protestant
+religion = catholic
 government = democracy
 plurality = 25.0
 nationalvalue = nv_order
 literacy = 0.7
 civilized = yes
 prestige = 5
+
+1300.1.1 = {
+	government = democracy
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	
+	ruling_party = SWI_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+1800.1.1 = {
 
 # Political reforms
 slavery = no_slavery
@@ -27,7 +47,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = SWI_conservative
+ruling_party = SWI_conservative0
 last_election = 1835.1.1
 upper_house = {
 	fascist = 0
