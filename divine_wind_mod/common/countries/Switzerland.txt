@@ -30,8 +30,8 @@ party = {
 }
 
 party = {
-	name = "SWI_conservative"
-	start_date = 1830.1.1
+	name = "SWI_conservative0"
+	start_date = 1399.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative

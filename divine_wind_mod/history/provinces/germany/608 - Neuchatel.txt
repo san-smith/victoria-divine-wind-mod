@@ -1,11 +1,16 @@
 trade_goods = coal
 life_rating = 40
 
+1300.1.1 = {
+	owner = SWI
+	controller = SWI
+	add_core = SWI
+}
 1800.1.1 = {
-owner = SWI
-controller = SWI
-add_core = SWI
-add_core = PRU
+	owner = SWI
+	controller = SWI
+	add_core = SWI
+	add_core = PRU
 }
 
 1857.1.1 = {
