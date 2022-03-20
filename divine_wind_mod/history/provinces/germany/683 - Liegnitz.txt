@@ -1,11 +1,18 @@
 trade_goods = iron
 life_rating = 40
 
+1300.1.1 = {
+	owner = BHM
+	controller = BHM
+	add_core = BHM
+}
+
 1800.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-add_core = GER
-add_core = POL
+    owner = PRU
+    controller = PRU
+    add_core = PRU
+    add_core = GER
+    add_core = POL
+    remove_core = BHM
 }
 1861.1.1 = { railroad = 3 }

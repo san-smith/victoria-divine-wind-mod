@@ -378,3 +378,6 @@ LEN     ="countries/Leinster.txt"
 CNN     ="countries/Connacht.txt"
 MNS     ="countries/Irish Munster.txt"
 TYR     ="countries/Tyrone.txt"
+
+# Eastern Europe
+BHM		= "countries/Bohemia.txt"
