@@ -1,11 +1,18 @@
 trade_goods = coal
 life_rating = 35
 
+1300.1.1 = {
+	owner = BHM
+	controller = BHM
+	add_core = BHM
+}
+
 1800.1.1 = {
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = BOH
-add_core = CZH
+    owner = AUS
+    controller = AUS
+    add_core = AUS
+    add_core = BOH
+    add_core = CZH
+    remove_core = BHM
 }
 1861.1.1 = { railroad = 1 }
