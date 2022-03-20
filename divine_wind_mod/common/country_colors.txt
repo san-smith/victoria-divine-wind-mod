@@ -1321,6 +1321,14 @@ MES = {
     color3= { 26 193 14  }
 }
 
+# Thuringia
+THU = {
+    color1= { 146 155 156  }
+    color2= { 194 140 86  }
+    color3= { 83 149 105  }
+}
+
+
 
 
 ## United Kingdom
