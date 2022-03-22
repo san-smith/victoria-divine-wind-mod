@@ -1,15 +1,13 @@
-capital = 554
-primary_culture = north_german
-culture = south_german
+capital = 592
+primary_culture = south_german
 religion = catholic
 government = absolute_monarchy
-plurality = 10.0
+plurality = 15.0
 nationalvalue = nv_order
 literacy = 0.060
 civilized = yes
 
-	ruling_party = THU_conservative0
-	last_election = 1300.1.1
+	ruling_party = AUG_conservative0
 	upper_house = {
 		fascist = 0
 		liberal = 0
@@ -18,4 +16,5 @@ civilized = yes
 		anarcho_liberal = 0
 		socialist = 0
 		communist = 0
+	}
 }
