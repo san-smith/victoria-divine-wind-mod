@@ -371,6 +371,7 @@ MAG	    = "countries/Magdeburg.txt"
 MES	    = "countries/Meissen.txt"
 ULM     = "countries/Ulm.txt"
 THU     = "countries/Thuringia.txt"
+AUG     = "countries/Augsburg.txt"
 
 ## United Kingdom
 ENL     ="countries/England.txt"
