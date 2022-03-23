@@ -1,6 +1,11 @@
 trade_goods = cattle
 life_rating = 40
 
+1300.1.1 = {
+	owner = TEU
+	controller = TEU
+	add_core = TEU
+}
 1800.1.1 = {
 	owner = PRU
 	controller = PRU
@@ -8,5 +13,6 @@ life_rating = 40
 	add_core = GER
 	add_core = POL
 	add_core = PLC
+	remove_core = TEU
 }
 1861.1.1 = { railroad = 3 }

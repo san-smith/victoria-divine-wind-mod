@@ -1,12 +1,18 @@
 trade_goods = grain
 life_rating = 35
 
+1300.1.1 = {
+	owner = TEU
+	controller = TEU
+	add_core = TEU
+}
 1800.1.1 = {
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = EST
-add_core = UBD
-fort = 1
-naval_base = 2
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = EST
+	add_core = UBD
+	remove_core = TEU
+	fort = 1
+	naval_base = 2
 }

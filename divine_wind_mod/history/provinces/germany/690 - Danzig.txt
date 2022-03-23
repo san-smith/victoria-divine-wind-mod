@@ -1,15 +1,21 @@
 trade_goods = fish
 life_rating = 40
 
+1300.1.1 = {
+	owner = TEU
+	controller = TEU
+	add_core = TEU
+}
 1800.1.1 = {
-owner = PRU
-controller = PRU
-add_core = PRU
-add_core = GER
-add_core = DZG
-add_core = POL
-add_core = PLC
-naval_base = 1
+	owner = PRU
+	controller = PRU
+	add_core = PRU
+	add_core = GER
+	add_core = DZG
+	add_core = POL
+	add_core = PLC
+	naval_base = 1
+	remove_core = TEU
 }
 1861.1.1 = {
 	state_building = {
