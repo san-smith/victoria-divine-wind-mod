@@ -6,14 +6,20 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+	owner = RIG
+	controller = RIG
+	add_core = RIG
+}
 1800.1.1 = {
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = LAT
-add_core = UBD
-add_core = PLC
-naval_base = 1
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = LAT
+	add_core = UBD
+	add_core = PLC
+	naval_base = 1
+	remove_core = RIG
 }
 1861.1.1 = { 
 	state_building = {
