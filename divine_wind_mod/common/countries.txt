@@ -316,9 +316,10 @@ D50		= "countries/D50.txt"
 
 ## DivineWindMod
 
-# Russia
+# Soviet
 NOV     = "countries/Novgorod.txt"
 TEU     = "countries/Teutonic Order.txt"
+RIG     = "countries/Riga.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
