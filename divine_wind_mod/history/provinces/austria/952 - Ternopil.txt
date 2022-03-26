@@ -1,12 +1,18 @@
 trade_goods = grain
 life_rating = 35
 
+1300.1.1 = {
+    owner = POL
+    controller = POL
+    add_core = POL
+}
+
 1800.1.1 = {
-owner = AUS
-controller = AUS
-add_core = AUS
-add_core = UKR
-add_core = POL
-add_core = RUT
-add_core = PLC
+    owner = AUS
+    controller = AUS
+    add_core = AUS
+    add_core = UKR
+    add_core = POL
+    add_core = RUT
+    add_core = PLC
 }
