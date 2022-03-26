@@ -7,9 +7,10 @@ life_rating = 35
 #}
 
 1300.1.1 = {
-    owner = POL
-    controller = POL
-    add_core = POL
+    owner = MAZ
+    controller = MAZ
+    add_core = MAZ
+	add_core = POL
 }
 
 1800.1.1 = {
@@ -18,6 +19,7 @@ life_rating = 35
 	add_core = RUS
 	add_core = POL
 	add_core = PLC
+	remove_core = MAZ
 }
 1861.1.1 = { 
 	state_building = {
