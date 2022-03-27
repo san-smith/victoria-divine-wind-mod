@@ -6,6 +6,7 @@ life_rating = 40
 	owner = BHM
 	controller = BHM
 	add_core = BHM
+	add_core = SIL
 }
 
 1800.1.1 = {
@@ -15,6 +16,7 @@ life_rating = 40
 	add_core = GER
 	add_core = POL
 	remove_core = BHM
+	remove_core = SIL
 	state_building = {
 		level = 1
 		building = explosives_factory

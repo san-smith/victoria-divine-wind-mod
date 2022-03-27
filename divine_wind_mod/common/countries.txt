@@ -385,4 +385,5 @@ TYR     ="countries/Tyrone.txt"
 
 # Eastern Europe
 BHM		= "countries/Bohemia.txt"
+SIL	    = "countries/Silesia.txt"
 MAZ	    = "countries/Mazovia.txt"

@@ -1365,6 +1365,13 @@ BHM = {
     color3= { 122 179 97  }
 }
 
+# Silesia
+SIL = {
+    color1= { 84 166 93  }
+    color2= { 144 52 53  }
+    color3= { 107 170 77  }
+}
+
 # Mazovia
 MAZ = {
     color1= { 195 149 155  }
