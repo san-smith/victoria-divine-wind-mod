@@ -5,6 +5,7 @@ life_rating = 35
 	owner = BHM
 	controller = BHM
 	add_core = BHM
+    add_core = SIL
 }
 
 1800.1.1 = {
@@ -14,5 +15,6 @@ life_rating = 35
     add_core = BOH
     add_core = CZH
     remove_core = BHM
+    remove_core = SIL
 }
 1861.1.1 = { railroad = 2 }
