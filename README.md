@@ -28,3 +28,7 @@
 Если вам интересно, что уже сделано, что планируется сделать в ближайшее время или что находится в разработке прямо сейчас - загляните в раздел [Projects](https://github.com/san-smith/victoria-divine-wind-mod/projects/1)
 
 PR welcome!
+
+## Скриншоты
+
+![victoria](/divine_wind_mod/tools/img/victoria.webp)
