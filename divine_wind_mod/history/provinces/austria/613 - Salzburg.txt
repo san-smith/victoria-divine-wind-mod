@@ -6,8 +6,14 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+	owner = SAL
+	controller = SAL
+	add_core = SAL
+}
 1800.1.1 = {
-owner = AUS
-controller = AUS
-add_core = AUS
+	owner = AUS
+	controller = AUS
+	add_core = AUS
+	remove_core = SAL
 }
