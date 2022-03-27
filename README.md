@@ -31,4 +31,4 @@ PR welcome!
 
 ## Скриншоты
 
-![victoria](/divine_wind_mod/tools/img/victoria.png)
+![victoria](/divine_wind_mod/tools/img/victoria.webp)
