@@ -1,8 +1,14 @@
 trade_goods = fish
 life_rating = 35
 
+1300.1.1 = {
+	owner = GEN
+	controller = GEN
+	add_core = GEN
+}
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = FRA
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	remove_core = GEN
 }
