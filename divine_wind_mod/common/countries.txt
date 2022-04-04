@@ -390,3 +390,4 @@ MAZ	    = "countries/Mazovia.txt"
 
 # Italy
 SAV	    = "countries/Savoy.txt"
+GEN	    = "countries/Genoa.txt"
