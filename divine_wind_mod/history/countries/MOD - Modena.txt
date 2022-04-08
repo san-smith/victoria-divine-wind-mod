@@ -8,7 +8,23 @@ literacy = 0.45
 civilized = yes
 prestige = 5
 
-
+1300.1.1 = {
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	prestige = 0
+	
+	ruling_party = MOD_conservative0
+	last_election = 1835.2.6
+	upper_house = {
+     fascist = 0
+	 liberal = 12
+     conservative = 83
+	 reactionary = 5
+	 anarcho_liberal = 0
+	 socialist = 0
+	 communist = 0
+	}
+}
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed

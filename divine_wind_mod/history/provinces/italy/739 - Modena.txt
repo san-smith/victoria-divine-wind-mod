@@ -6,11 +6,17 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = MOD
+	controller = MOD
+	add_core = MOD
+}
 1800.1.1 = {
-owner = MOD
-controller = MOD
-add_core = MOD
-add_core = ITA
+	owner = MOD
+	controller = MOD
+	add_core = MOD
+	add_core = ITA
+	remove_core = MOD
 }
 1861.1.1 = {
 	controller = ITA
