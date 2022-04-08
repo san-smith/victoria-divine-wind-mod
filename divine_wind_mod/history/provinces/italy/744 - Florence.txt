@@ -6,11 +6,17 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = TUS
+	controller = TUS
+	add_core = TUS
+}
 1800.1.1 = {
-owner = TUS
-controller = TUS
-add_core = TUS
-add_core = ITA
+    owner = TUS
+    controller = TUS
+    add_core = TUS
+    add_core = ITA
+	remove_core = TUS
 }
 1861.1.1 = {
 	controller = ITA
