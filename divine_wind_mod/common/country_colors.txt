@@ -1378,3 +1378,13 @@ MAZ = {
     color2= { 194 140 86  }
     color3= { 122 179 97  }
 }
+
+
+# Italy
+
+# Sardinia
+SRN = {
+    color1= { 117 146 167  }
+    color2= { 101 102 163  }
+    color3= { 104 137 140  }
+}
