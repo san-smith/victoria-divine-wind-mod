@@ -1,12 +1,19 @@
 trade_goods = fish
 life_rating = 35
 
+1300.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}
+
 1800.1.1 = {
-owner = SIC
-controller = SIC
-add_core = SIC
-add_core = ITA
-naval_base = 1
+	owner = SIC
+	controller = SIC
+	add_core = SIC
+	add_core = ITA
+	remove_core = NAP
+	naval_base = 1
 }
 1861.1.1 = {
 	controller = ITA
