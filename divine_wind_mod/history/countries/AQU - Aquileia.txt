@@ -1,0 +1,24 @@
+capital = 733
+primary_culture = north_italian
+culture = slovene
+religion = catholic
+government = theocracy_government
+plurality = 0.1
+nationalvalue = nv_order
+literacy = 0.4
+civilized = yes
+
+1300.1.1 = {
+	literacy = 0.04
+
+	ruling_party = AQU_reactionary0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
