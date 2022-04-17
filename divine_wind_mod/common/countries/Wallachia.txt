@@ -2,6 +2,20 @@ color = { 161  126  128 }
 graphical_culture = EuropeanGC
 
 party = {
+	name = "WAL_conservative0"
+	start_date = 1300.1.1
+	end_date = 2000.1.1
+
+	ideology = conservative
+
+	economic_policy = state_capitalism
+	trade_policy = protectionism
+	religious_policy = pluralism
+	citizenship_policy = residency
+	war_policy = pacifism
+}
+
+party = {
 	name = "WAL_reactionary"
 	start_date = 1830.1.1
 	end_date = 1909.1.1
