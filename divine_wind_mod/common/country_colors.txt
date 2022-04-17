@@ -1395,3 +1395,13 @@ URB = {
     color2= { 255 255 255  }
     color3= { 83 149 105  }
 }
+
+
+# Balcans
+
+# Ragusa
+RAG = {
+    color1= { 202 112 85  }
+    color2= { 194 140 86  }
+    color3= { 137 183 124  }
+}
