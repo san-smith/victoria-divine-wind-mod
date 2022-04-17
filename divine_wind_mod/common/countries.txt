@@ -397,3 +397,6 @@ FER	    = "countries/Ferrara.txt"
 SRN		= "countries/Sardinia.txt"
 URB	    = "countries/Urbino.txt"
 NAP	    = "countries/Naples.txt"
+
+# Balkans
+RAG	    = "countries/Ragusa.txt"
