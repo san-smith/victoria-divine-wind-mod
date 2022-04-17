@@ -1,0 +1,27 @@
+capital = 655
+primary_culture = romanian
+religion = orthodox
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.1
+civilized = yes
+
+
+1300.1.1 = {
+	plurality = 0.25
+
+	ruling_party = TRS_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+
+

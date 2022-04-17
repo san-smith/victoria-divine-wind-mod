@@ -1405,3 +1405,10 @@ RAG = {
     color2= { 194 140 86  }
     color3= { 137 183 124  }
 }
+
+# Transylvania
+TRS = {
+    color1= { 211 207 173  }
+    color2= { 154 69 116  }
+    color3= { 122 179 97  }
+}

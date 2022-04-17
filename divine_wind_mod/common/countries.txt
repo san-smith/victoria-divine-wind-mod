@@ -400,3 +400,4 @@ NAP	    = "countries/Naples.txt"
 
 # Balkans
 RAG	    = "countries/Ragusa.txt"
+TRS	    = "countries/Transylvania.txt"
