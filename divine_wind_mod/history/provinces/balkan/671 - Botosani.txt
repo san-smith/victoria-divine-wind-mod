@@ -1,14 +1,17 @@
-trade_goods = fruit
-life_rating = 35
-
-
-1800.1.1 = {
 owner = MOL
 controller = MOL
 add_core = MOL
 add_core = ROM
+trade_goods = fruit
+life_rating = 35
+
+1300.1.1 = {
+    owner = MOL
+	controller = MOL
+	add_core = MOL
 }
 1861.1.1 = {
 	controller = ROM
 	owner = ROM
+	remove_core = MOL
 }

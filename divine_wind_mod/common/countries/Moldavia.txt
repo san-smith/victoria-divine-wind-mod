@@ -44,8 +44,8 @@ party = {
 }
 
 party = {
-	name = "MOL_conservative"
-	start_date = 1830.1.1
+	name = "MOL_conservative0"
+	start_date = 1399.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -54,7 +54,7 @@ party = {
 	trade_policy = free_trade
 	religious_policy = pluralism
 	citizenship_policy = limited_citizenship
-	war_policy = pacifism
+	war_policy = pro_military
 }
 
 party = {
