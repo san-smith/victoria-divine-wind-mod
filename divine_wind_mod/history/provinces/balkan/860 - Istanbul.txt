@@ -17,12 +17,19 @@ life_rating = 35
 #	upgrade = yes
 #}
 
+1300.1.1 = {
+    owner = BYZ
+	controller = BYZ
+	add_core = BYZ
+}
+
 1800.1.1 = {
 	naval_base = 1
 	fort = 1
 	owner = TUR
 	controller = TUR
 	add_core = TUR
+	remove_core = BYZ
 }
 1861.1.1 = {
 	state_building = {
