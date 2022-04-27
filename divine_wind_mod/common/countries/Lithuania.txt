@@ -2,8 +2,8 @@ color = { 154  69  116 }
 graphical_culture = EuropeanGC
 
 party = {
-	name = "LIT_conservative"
-	start_date = 1800.1.1
+	name = "LIT_conservative0"
+	start_date = 1399.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
