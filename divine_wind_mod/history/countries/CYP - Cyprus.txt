@@ -2,12 +2,32 @@ capital = 855
 primary_culture = greek
 culture = turkish
 religion = orthodox
-government = democracy
+government = absolute_monarchy
 plurality = 0.05
 nationalvalue = nv_order
 literacy = 0.04
 civilized = yes
 
+1300.1.1 = {
+	literacy = 0.060
+	non_state_culture_literacy = 0.0
+	
+
+	ruling_party = CYP_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+
+1800.1.1 = {
 
 # Political reforms
 slavery = no_slavery
@@ -28,7 +48,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
-ruling_party = CYP_conservative
+ruling_party = CYP_conservative0
 upper_house = {
 	fascist = 0
 	liberal = 21
