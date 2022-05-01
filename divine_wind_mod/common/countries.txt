@@ -318,6 +318,7 @@ D50		= "countries/D50.txt"
 
 # Soviet
 NOV     = "countries/Novgorod.txt"
+PSK	    = "countries/Pskov.txt"
 TEU     = "countries/Teutonic Order.txt"
 RIG     = "countries/Riga.txt"
 
