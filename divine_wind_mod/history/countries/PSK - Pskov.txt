@@ -1,0 +1,26 @@
+capital = 1006
+primary_culture = russian
+culture = ugrian
+religion = orthodox
+government = absolute_monarchy
+plurality = 0.25
+nationalvalue = nv_order
+literacy = 0.06
+civilized = yes
+
+
+
+1300.1.1 = {
+	ruling_party = PSK_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+

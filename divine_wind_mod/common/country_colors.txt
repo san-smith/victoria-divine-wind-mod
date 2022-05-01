@@ -1051,6 +1051,14 @@ NOV = {
     color3= { 199 175 12  }
 }
 
+# Pskov
+PSK = {
+    color1= { 82 123 95  }
+    color2= { 89 140 176  }
+    color3= { 131 101 85  }
+}
+
+
 ## Spain
 
 # Castille
