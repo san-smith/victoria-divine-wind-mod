@@ -402,5 +402,6 @@ NAP	    = "countries/Naples.txt"
 # Balkans
 RAG	    = "countries/Ragusa.txt"
 TRS	    = "countries/Transylvania.txt"
-KNI	    = "countries/knights.txt"
+KNI	    = "countries/Knights.txt"
 COR	    = "countries/Corfu.txt"
+NAK	    = "countries/Naxos.txt"
