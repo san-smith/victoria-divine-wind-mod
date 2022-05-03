@@ -3,7 +3,7 @@ color = { 97 126 37 }
 graphical_culture = RussianGC
 
 party = {
-	name = "NOV _conservative0"
+	name = "NOV_conservative0"
 	start_date = 1300.1.1
 	end_date = 2000.1.1
 

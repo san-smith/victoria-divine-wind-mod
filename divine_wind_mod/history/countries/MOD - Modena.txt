@@ -25,6 +25,8 @@ prestige = 5
 		communist = 0
 	}
 }
+
+1800.1.1 = {
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
