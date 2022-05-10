@@ -2,14 +2,14 @@ trade_goods = fish
 life_rating = 35
 
 1300.1.1 = {
-    owner = COR
-	controller = COR
-	add_core = COR
+    owner = EPI
+	controller = EPI
+	add_core = EPI
 }
 1800.1.1 = {
     owner = ION
     controller = ION
     add_core = ION
     add_core = GRE
-	remove_core = COR
+	remove_core = EPI
 }
