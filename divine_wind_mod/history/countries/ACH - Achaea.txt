@@ -1,0 +1,23 @@
+capital = 834
+primary_culture = greek
+religion = orthodox
+government = absolute_monarchy
+plurality = 25.0
+nationalvalue = nv_order
+literacy = 0.22
+civilized = yes 
+
+1300.1.1 = {
+
+	ruling_party = ACH_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
