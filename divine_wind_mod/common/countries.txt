@@ -407,3 +407,6 @@ COR	    = "countries/Corfu.txt"
 NAK	    = "countries/Naxos.txt"
 EPI	    = "countries/Epirus.txt"
 ACH	    = "countries/Achaea.txt"
+
+# Asia Minor
+TBZ     = "countries/Trebizond.txt"
