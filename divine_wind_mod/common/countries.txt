@@ -410,3 +410,4 @@ ACH	    = "countries/Achaea.txt"
 
 # Asia Minor
 TBZ     = "countries/Trebizond.txt"
+CND     = "countries/Candar.txt"
