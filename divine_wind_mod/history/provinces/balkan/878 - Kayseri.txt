@@ -1,8 +1,14 @@
 trade_goods = wool
 life_rating = 35
 
+1300.1.1 = {
+    owner = RAM
+	controller = RAM
+	add_core = RAM
+}
 1800.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
+    owner = TUR
+    controller = TUR
+    add_core = TUR
+	remove_core = RAM
 }
