@@ -1,8 +1,14 @@
 trade_goods = grain
 life_rating = 35
 
+1300.1.1 = {
+    owner = DUL
+	controller = DUL
+	add_core = DUL
+}
 1800.1.1 = {
-owner = TUR
-controller = TUR
-add_core = TUR
+    owner = TUR
+    controller = TUR
+    add_core = TUR
+	remove_core = DUL
 }
