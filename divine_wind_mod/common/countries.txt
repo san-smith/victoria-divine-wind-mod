@@ -321,6 +321,7 @@ NOV     = "countries/Novgorod.txt"
 PSK	    = "countries/Pskov.txt"
 TEU     = "countries/Teutonic Order.txt"
 RIG     = "countries/Riga.txt"
+MUS     = "countries/Muscowy.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
