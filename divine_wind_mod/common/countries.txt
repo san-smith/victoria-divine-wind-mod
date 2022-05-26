@@ -323,6 +323,7 @@ TEU     = "countries/Teutonic Order.txt"
 RIG     = "countries/Riga.txt"
 MUS     = "countries/Muscowy.txt"
 YAR     = "countries/Yaroslavl.txt"
+TVE     = "countries/Tver.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
