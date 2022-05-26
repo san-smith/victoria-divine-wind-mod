@@ -324,6 +324,7 @@ RIG     = "countries/Riga.txt"
 MUS     = "countries/Muscowy.txt"
 YAR     = "countries/Yaroslavl.txt"
 TVE     = "countries/Tver.txt"
+RYA     = "countries/Ryazan.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
