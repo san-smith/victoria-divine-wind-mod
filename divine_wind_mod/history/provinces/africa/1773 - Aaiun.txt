@@ -1,4 +1,11 @@
 trade_goods = fish
 life_rating = 10
+
+1300.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+}
 1800.1.1 = {
+remove_core = MOR
 }
