@@ -12,6 +12,7 @@ civilized = yes
 	government = absolute_monarchy
 	literacy = 0.060
 	non_state_culture_literacy = 0.0
+	nationalvalue = nv_order
 	
 	ruling_party = NOR_conservative0
 	last_election = 1300.1.1

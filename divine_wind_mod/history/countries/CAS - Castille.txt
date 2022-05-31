@@ -13,6 +13,7 @@ literacy = 0.13
 	prestige = 40
 	government = absolute_monarchy
 	literacy = 0.013
+	nationalvalue = nv_order
 
 	ruling_party = SPA_conservative0
 	last_election = 1300.1.1
