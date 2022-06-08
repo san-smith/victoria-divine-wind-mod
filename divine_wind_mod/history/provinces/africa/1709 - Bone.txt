@@ -1,8 +1,14 @@
 trade_goods = grain
 life_rating = 35
 colonial = 2
+
+1300.1.1 = {
+	owner = ALD
+	controller = ALD
+	add_core = ALD
+}
 1800.1.1 = {
-owner = FRA
-controller = FRA
-add_core = ALD
+	owner = FRA
+	controller = FRA
+	add_core = ALD
 }
