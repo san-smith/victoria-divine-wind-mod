@@ -2,8 +2,8 @@ color = { 131  101  85 }
 graphical_culture = MiddleEasternGC
 
 party = {
-	name = "TUN_conservative"
-	start_date = 1800.1.1
+	name = "TUN_conservative0"
+	start_date = 1399.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
