@@ -1,7 +1,14 @@
 trade_goods = cotton
 life_rating = 35
+
+1300.1.1 = {
+	owner = MAM
+	controller = MAM
+	add_core = MAM
+}
 1800.1.1 = {
-owner = EGY
-controller = EGY
-add_core = EGY
+	owner = EGY
+	controller = EGY
+	add_core = EGY
+	remove_core = MAM
 }
