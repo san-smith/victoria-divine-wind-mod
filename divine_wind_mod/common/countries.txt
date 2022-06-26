@@ -418,3 +418,6 @@ CND     = "countries/Candar.txt"
 KAR     = "countries/Karaman.txt"
 RAM     = "countries/Ramazan.txt"
 DUL     = "countries/Dulkadir.txt"
+
+# Near East
+MAM     = "countries/Mamluken.txt"

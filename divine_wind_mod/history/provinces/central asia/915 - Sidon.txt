@@ -1,12 +1,17 @@
 trade_goods = fruit
 life_rating = 35
 
-
+1300.1.1 = {
+	owner = MAM
+	controller = MAM
+	add_core = MAM
+}
 1800.1.1 = {
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = TUR
+	owner = EGY
+	controller = EGY
+	add_core = EGY
+	add_core = TUR
+	remove_core = MAM
 }
 1861.1.1 = {
 	controller = TUR 
