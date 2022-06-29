@@ -1,4 +1,11 @@
 trade_goods = cattle
 life_rating = 15
-1800.1.1 = {
+ 
+1300.1.1 = {
+	owner = TIM
+	controller = TIM
+	add_core = TIM
+}
+1800.1.1 = { 
+remove_core = TIM
 }

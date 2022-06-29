@@ -1,8 +1,14 @@
 trade_goods = coal
 life_rating = 35
 
+1300.1.1 = {
+	owner = TIM
+	controller = TIM
+	add_core = TIM
+}
 1800.1.1 = {
-owner = PER
-controller = PER
-add_core = PER
+	owner = PER
+	controller = PER
+	add_core = PER
+	remove_core = TIM
 }
