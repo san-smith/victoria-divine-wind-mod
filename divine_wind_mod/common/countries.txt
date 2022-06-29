@@ -421,3 +421,6 @@ DUL     = "countries/Dulkadir.txt"
 
 # Near East
 MAM     = "countries/Mamluken.txt"
+
+# Central Asia
+TIM		="countries/Timurids.txt"

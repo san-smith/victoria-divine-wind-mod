@@ -1,0 +1,23 @@
+#  
+country_event = {
+
+	id = 666			
+
+	trigger = {
+		tag = TIM
+		year = 1404
+		has_leader = "Тамерлан"
+}
+
+fire_only_once = yes 
+major = yes	
+
+	title = "EVTNAME666"
+	desc = "EVTDESC666"
+	
+option = {
+	name = "EVTOPTA666"
+	kill_leader = 3
+	prestige = 5
+	}
+}

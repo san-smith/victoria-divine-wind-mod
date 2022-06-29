@@ -1,7 +1,13 @@
 trade_goods = opium
 life_rating = 35
 
+1300.1.1 = {
+	owner = TIM
+	controller = TIM
+	add_core = TIM
+}
 1800.1.1 = {
+	remove_core = TIM
 }
 1861.1.1 = {
 	owner = RUS
