@@ -382,11 +382,11 @@ AUG     = "countries/Augsburg.txt"
 SAL     = "countries/Salzburg.txt"
 
 ## United Kingdom
-ENL     ="countries/England.txt"
-LEN     ="countries/Leinster.txt"
-CNN     ="countries/Connacht.txt"
-MNS     ="countries/Irish Munster.txt"
-TYR     ="countries/Tyrone.txt"
+ENL     = "countries/England.txt"
+LEN     = "countries/Leinster.txt"
+CNN     = "countries/Connacht.txt"
+MNS     = "countries/Irish Munster.txt"
+TYR     = "countries/Tyrone.txt"
 
 # Eastern Europe
 BHM		= "countries/Bohemia.txt"
@@ -423,4 +423,5 @@ DUL     = "countries/Dulkadir.txt"
 MAM     = "countries/Mamluken.txt"
 
 # Central Asia
-TIM		="countries/Timurids.txt"
+TIM		= "countries/Timurids.txt"
+KAK     = "countries/Kara Koyunlu.txt"
