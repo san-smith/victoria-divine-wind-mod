@@ -1,0 +1,28 @@
+capital = 1465
+primary_culture = tatar
+culture = bashkir
+culture = kazak
+culture = crimean_tatar
+culture = nogais
+religion = sunni
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.01
+non_state_culture_literacy = 0.01
+civilized = no 
+
+1300.1.1 = { 
+
+	ruling_party = GOL_reactionary0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 0
+		reactionary = 100
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+

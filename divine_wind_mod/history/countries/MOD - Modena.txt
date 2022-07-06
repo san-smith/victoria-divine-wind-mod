@@ -17,10 +17,10 @@ prestige = 5
 	last_election = 1300.1.1
 	upper_house = {
 		fascist = 0
-		liberal = 0
+		progressivism = 0
 		conservative = 100
 		reactionary = 0
-		anarcho_liberal = 0
+		anarcho_progressivism = 0
 		socialist = 0
 		communist = 0
 	}
@@ -49,10 +49,10 @@ school_reforms = no_schools
 ruling_party = MOD_reactionary
 upper_house = {
 	fascist = 0
-	liberal = 22
+	progressivism = 22
 	conservative = 60
 	reactionary = 18
-	anarcho_liberal = 0
+	anarcho_progressivism = 0
 	socialist = 0
 	communist = 0
 }
