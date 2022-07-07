@@ -1,8 +1,13 @@
 trade_goods = opium
 life_rating = 35
 
+1300.1.1 = {
+	owner = YEM
+	controller = YEM
+	add_core = YEM
+}
 1800.1.1 = {
-owner = OMA
-controller = OMA
-add_core = OMA
+	owner = OMA
+	controller = OMA
+	add_core = OMA 
 }
