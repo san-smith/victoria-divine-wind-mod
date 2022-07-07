@@ -326,6 +326,7 @@ YAR     = "countries/Yaroslavl.txt"
 TVE     = "countries/Tver.txt"
 RYA     = "countries/Ryazan.txt"
 GOL     = "countries/Golden Horde.txt"
+KAZ     = "countries/Kazakh Horde.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
