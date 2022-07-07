@@ -18,6 +18,5 @@ major = yes
 option = {
 	name = "EVTOPTA666"
 	kill_leader = 3
-	prestige = 5
 	}
 }
