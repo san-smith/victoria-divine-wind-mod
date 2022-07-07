@@ -4,19 +4,22 @@ religion = shiite
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.03
+literacy = 0.01
 
-ruling_party = OMA_conservative
+1300.1.1 = {
+
+ruling_party = OMA_reactionary0
 upper_house = {
 	fascist = 0
-	liberal = 13
-	conservative = 58
-	reactionary = 29
+	liberal = 0
+	conservative = 0
+	reactionary = 100
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+	}
 }
-
+1800.1.1 = {
 
 # Starting Consciousness
 consciousness = 0
