@@ -1,4 +1,4 @@
-capital = 1157
+capital = 1161
 primary_culture = bedouin
 religion = sunni
 government = absolute_monarchy
@@ -17,6 +17,7 @@ upper_house = {
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0
+	}
 }
 
 1800.1.1 = {
@@ -24,8 +25,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-oob = "NEJ_oob.txt"
 
 slavery = no_slavery
 upper_house_composition = appointed
@@ -43,9 +42,9 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+}
 
 1861.1.1 = {
-	oob = "/1861/NEJ_oob.txt"
 	literacy = 0.04
 	non_state_culture_literacy = 0.11
 
