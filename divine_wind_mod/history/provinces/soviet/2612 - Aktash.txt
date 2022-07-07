@@ -7,8 +7,8 @@ life_rating = 25
     add_core = KAZ
 }
 1800.1.1 = {
-`add_core = RUS
-remove_core = KAZ
+    add_core = RUS
+    remove_core = KAZ
 }
 1861.1.1 = {
 	owner = RUS

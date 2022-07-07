@@ -1,4 +1,4 @@
-color = { 255  251  198 }
+color = { 175  122  10 }
 graphical_culture = MiddleEasternGC
 
 party = {
@@ -30,8 +30,8 @@ party = {
 }
 
 party = {
-	name = "NEJ_reactionary"
-	start_date = 1820.1.1
+	name = "NEJ_reactionary0"
+	start_date = 1300.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
