@@ -143,6 +143,7 @@ NEJ		="countries/Nejd.txt"
 OMA		="countries/Oman.txt"
 PER		="countries/Persia.txt"
 YEM		="countries/Yemen.txt"
+HAS		="countries/Haasa.txt"
 
 # India
 HND 	="countries/India.txt"
