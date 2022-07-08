@@ -1,0 +1,24 @@
+capital = 1198
+primary_culture = kazak
+religion = sunni
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.01
+non_state_culture_literacy = 0.01
+civilized = no 
+
+1300.1.1 = { 
+
+	ruling_party = NOG_reactionary0
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 0
+		reactionary = 100
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+

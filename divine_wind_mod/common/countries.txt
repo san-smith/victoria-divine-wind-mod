@@ -143,7 +143,6 @@ NEJ		="countries/Nejd.txt"
 OMA		="countries/Oman.txt"
 PER		="countries/Persia.txt"
 YEM		="countries/Yemen.txt"
-HAS		="countries/Haasa.txt"
 
 # India
 HND 	="countries/India.txt"
@@ -328,6 +327,7 @@ TVE     = "countries/Tver.txt"
 RYA     = "countries/Ryazan.txt"
 GOL     = "countries/Golden Horde.txt"
 KAZ     = "countries/Kazakh Horde.txt"
+NOG     = "countries/Nogai Horde.txt"
 
 # Spain
 CAS     = "countries/Castille.txt"
@@ -428,3 +428,4 @@ MAM     = "countries/Mamluken.txt"
 # Central Asia
 TIM		= "countries/Timurids.txt"
 KAK     = "countries/Kara Koyunlu.txt"
+HAS		="countries/Haasa.txt"
