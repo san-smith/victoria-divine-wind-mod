@@ -428,3 +428,4 @@ MAM     = "countries/Mamluken.txt"
 # Central Asia
 TIM		= "countries/Timurids.txt"
 KAK     = "countries/Kara Koyunlu.txt"
+JAL     = "countries/Jalayirid.txt"

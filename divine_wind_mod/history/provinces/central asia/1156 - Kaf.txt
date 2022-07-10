@@ -1,12 +1,18 @@
 trade_goods = wool
 life_rating = 35
 
+1300.1.1 = {
+    owner = JAL
+    controller = JAL
+    add_core = JAL
+}
 
 1800.1.1 = {
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = TUR
+	owner = EGY
+	controller = EGY
+	add_core = EGY
+	add_core = TUR
+	remove_core = JAL
 }
 1861.1.1 = {
 	controller = TUR 
