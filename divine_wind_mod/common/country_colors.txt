@@ -9,9 +9,9 @@ SWE = {
 
 # Denmark FIXED (dark-blue coats, blue trousers and hats)
 DEN = {
-color1= { 69 80 169 }
-color2= { 69 157 208 }
-color3= { 137 183 124 }
+    color1= { 69 80 169 }
+    color2= { 69 157 208 }
+    color3= { 137 183 124 }
 }
 
 
@@ -1364,7 +1364,7 @@ TYR = {
 
 
 
-# Eastern Europe
+## Eastern Europe
 
 # Bohemia
 BHM = {
@@ -1388,7 +1388,7 @@ MAZ = {
 }
 
 
-# Italy
+## Italy
 
 # Sardinia
 SRN = {
@@ -1405,7 +1405,7 @@ URB = {
 }
 
 
-# Balcans
+## Balcans
 
 # Ragusa
 RAG = {
@@ -1419,4 +1419,15 @@ TRS = {
     color1= { 211 207 173  }
     color2= { 154 69 116  }
     color3= { 122 179 97  }
+}
+
+
+
+## Middle East
+
+# Jalayirid
+JAL = {
+    color1= {  79  89 182 }
+    color2= {  79 175 224 }
+    color3= { 157 204 134 }
 }
