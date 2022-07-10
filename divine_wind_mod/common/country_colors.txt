@@ -1431,3 +1431,14 @@ JAL = {
     color2= {  79 175 224 }
     color3= { 157 204 134 }
 }
+
+
+
+## Far East
+
+# OiratHorde
+OIR = {
+    color1= { 204 184 177  }
+    color2= { 94 117 55  }
+    color3= { 83 149 105  }
+}
