@@ -1,9 +1,16 @@
 trade_goods = cotton
 life_rating = 32
 
+1300.1.1 = {
+    owner = OIR
+    controller = OIR
+    add_core = OIR
+}
+
 1800.1.1 = {
-owner = XIN
-controller = XIN
-add_core = CHI
-add_core = XIN
+    owner = XIN
+    controller = XIN
+    add_core = CHI
+    add_core = XIN
+    remove_core = OIR
 }
