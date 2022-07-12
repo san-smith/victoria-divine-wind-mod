@@ -1,0 +1,27 @@
+capital = 2207
+primary_culture = mongol
+religion = gelugpa
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.02
+non_state_culture_literacy = 0.01 #Chinese
+civilized = no
+
+
+1300.1.1 = {
+	ruling_party = CHA_conservative0
+	last_election = 1300.1.1
+	upper_house = {
+		fascist = 0
+		liberal = 0
+		conservative = 100
+		reactionary = 0
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+
+
