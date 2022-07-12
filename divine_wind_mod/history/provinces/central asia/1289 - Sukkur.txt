@@ -1,11 +1,16 @@
 trade_goods = grain
 life_rating = 35
 
+1300.1.1 = {
+	owner = SIN
+	controller = SIN
+	add_core = SIN
+}
 1800.1.1 = {
-owner = SIN
-controller = SIN
-add_core = SIN
-add_core = HND
+	owner = SIN
+    controller = SIN
+	add_core = SIN
+	add_core = HND
 }
 1861.1.1 = {
 	owner = ENG
