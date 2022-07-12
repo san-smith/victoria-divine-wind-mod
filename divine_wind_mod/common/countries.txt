@@ -433,3 +433,6 @@ CHA     = "countries/Chagatai Khanat.txt"
 
 # Far East
 OIR	    = "countries/OiratHorde.txt"
+
+# India
+MLD 	= "countries/Maldive.txt"

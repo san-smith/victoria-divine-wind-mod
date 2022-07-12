@@ -1442,3 +1442,14 @@ OIR = {
     color2= { 94 117 55  }
     color3= { 83 149 105  }
 }
+
+
+
+## India
+
+# Maldive
+MLD = {
+    color1= { 79 166 103  }
+    color2= { 154 69 116  }
+    color3= { 122 179 97  }
+}
