@@ -1,0 +1,22 @@
+capital = 1325
+primary_culture = yue
+religion = sunni
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_order
+literacy = 0.03
+
+1300.1.1 = {
+	ruling_party = MLD_conservative0
+	upper_house = {
+		fascist = 0
+		liberal = 10
+		conservative = 75
+		reactionary = 15
+		anarcho_liberal = 0
+		socialist = 0
+		communist = 0
+	}
+}
+
+
