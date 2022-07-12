@@ -2,8 +2,8 @@ color = { 135  104  85 }
 graphical_culture = IndianGC
 
 party = {
-	name = "SIN_conservative"
-	start_date = 1800.1.1
+	name = "SIN_conservative0"
+	start_date = 1300.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
