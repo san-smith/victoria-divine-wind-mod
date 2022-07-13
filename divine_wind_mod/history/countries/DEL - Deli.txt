@@ -1,0 +1,22 @@
+capital = 1236
+primary_culture = panjabi
+religion = hindu
+government = absolute_monarchy
+plurality = 0.0
+nationalvalue = nv_equality
+literacy = 0.01
+civilized = no
+
+1300.1.1 = {
+
+ruling_party = DEL_conservative0
+upper_house = {
+	fascist = 0
+	liberal = 0
+	conservative = 0
+	reactionary = 100
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+	}
+}
