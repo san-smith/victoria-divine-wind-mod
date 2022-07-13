@@ -436,3 +436,4 @@ OIR	    = "countries/OiratHorde.txt"
 
 # India
 MLD 	= "countries/Maldive.txt"
+DEL 	= "countries/Deli.txt"
