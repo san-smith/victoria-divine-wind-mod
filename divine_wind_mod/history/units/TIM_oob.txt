@@ -2,7 +2,8 @@ leader = {
 	name = "Тамерлан"
 	date = 1370.1.1
 	type = land
-	personality ="Resolute"
-	background ="Natural Born Leader"
-	prestige = 0.7
+	personality="resolute"
+	background="natural_born_leader"
+	picture="personal_tamerlan"
+	prestige = 0.5
 } 
