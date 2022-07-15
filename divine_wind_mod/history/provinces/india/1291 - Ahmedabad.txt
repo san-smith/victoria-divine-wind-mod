@@ -1,9 +1,16 @@
 trade_goods = tobacco
 life_rating = 32
+
+1300.1.1 = {
+    owner = GUJ
+	controller = GUJ
+	add_core = GUJ
+}
 1800.1.1 = {
-owner = ENG
-controller = ENG
-add_core = BER
-add_core = HND
-colonial = 2
+	owner = ENG
+	controller = ENG
+	add_core = BER
+	add_core = HND
+	colonial = 2
+	remove_core = GUJ
 }
