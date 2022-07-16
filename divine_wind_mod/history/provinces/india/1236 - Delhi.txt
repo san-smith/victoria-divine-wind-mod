@@ -6,6 +6,7 @@ life_rating = 32
     controller = DEL
     add_core = DEL
 }
+
 1800.1.1 = {
 	colonial = 2
 	owner = ENG
