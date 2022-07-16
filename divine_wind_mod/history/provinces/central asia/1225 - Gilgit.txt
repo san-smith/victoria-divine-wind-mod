@@ -1,12 +1,19 @@
 trade_goods = tea
 life_rating = 35
 
-1800.1.1 = {
-owner = PAN
-controller = PAN
-add_core = PAN
-add_core = KAS
+1300.1.1 = {
+	owner = KAS
+	controller = KAS
+	add_core = KAS
 }
+
+1800.1.1 = {
+	owner = PAN
+	controller = PAN
+	add_core = PAN
+	add_core = KAS
+}
+
 1861.1.1 = {
 	owner = KAS
 	controller = KAS
