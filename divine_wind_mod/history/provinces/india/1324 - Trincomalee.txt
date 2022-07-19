@@ -1,11 +1,17 @@
 trade_goods = tea
 life_rating = 32
 
+1300.1.1 = {
+    owner = CEY
+	controller = CEY
+	add_core = CEY
+}
 1800.1.1 = {
-owner = ENG
-controller = ENG
-add_core = HND
-colonial = 2
+	owner = ENG
+	controller = ENG
+	add_core = HND
+	colonial = 2
+	remove_core = CEY
 }
 1861.1.1 = { 
 	naval_base = 1
