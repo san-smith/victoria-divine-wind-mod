@@ -1,9 +1,15 @@
 trade_goods = tea
 life_rating = 32
 
+1300.1.1 = {
+    owner = DEC
+	controller = DEC
+	add_core = DEC
+}
 1800.1.1 = {
-owner = HYD
-controller = HYD
-add_core = HYD
-add_core = HND
+	owner = HYD
+	controller = HYD
+	add_core = HYD
+	add_core = HND
+	remove_core = DEC
 }
