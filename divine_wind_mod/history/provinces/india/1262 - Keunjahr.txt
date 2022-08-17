@@ -1,9 +1,14 @@
 trade_goods = grain
 life_rating = 32
 
+1300.1.1 = {
+    owner = ORI
+	controller = ORI
+	add_core = ORI
+}
 1800.1.1 = {
-owner = ORI
-controller = ORI
-add_core = ORI
-add_core = HND
+	owner = ORI
+	controller = ORI
+	add_core = ORI
+	add_core = HND
 }
