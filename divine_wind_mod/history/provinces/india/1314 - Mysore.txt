@@ -1,9 +1,14 @@
 trade_goods = silk
 life_rating = 32
 
+1300.1.1 = {
+    owner = MYS
+	controller = MYS
+	add_core = MYS
+}
 1800.1.1 = {
-owner = MYS
-controller = MYS
-add_core = MYS
-add_core = HND
+	owner = MYS
+	controller = MYS
+	add_core = MYS
+	add_core = HND
 }
