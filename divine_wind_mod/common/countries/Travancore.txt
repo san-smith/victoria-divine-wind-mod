@@ -3,8 +3,8 @@ graphical_culture = IndianGC
 
 
 party = {
-	name = "TRA_conservative"
-	start_date = 1800.1.1
+	name = "TRA_conservative0"
+	start_date = 1300.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
