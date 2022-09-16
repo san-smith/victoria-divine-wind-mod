@@ -1,8 +1,13 @@
 trade_goods = cattle
 life_rating = 25
 
+1300.1.1 = {
+    owner = TIB
+    controller = TIB
+    add_core = TIB
+}
 1800.1.1 = {
-owner = TIB
-controller = TIB
-add_core = TIB
+	owner = TIB
+	controller = TIB
+	add_core = TIB
 }
