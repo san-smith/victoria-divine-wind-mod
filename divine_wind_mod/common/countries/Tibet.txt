@@ -2,8 +2,8 @@ color = { 65  127  186 }
 graphical_culture = AsianGC
 
 party = {
-	name = "TIB_conservative"
-	start_date = 1800.1.1
+	name = "TIB_conservative0"
+	start_date = 1300.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
