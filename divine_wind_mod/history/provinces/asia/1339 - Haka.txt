@@ -1,8 +1,14 @@
 trade_goods = tropical_wood
 life_rating = 35
 
+1300.1.1 = {
+    owner = ASS
+    controller = ASS
+    add_core = ASS
+}
 1800.1.1 = {
-owner = BUR
-controller = BUR
-add_core = BUR
+	owner = BUR
+	controller = BUR
+	add_core = BUR
+	remove_core = ASS
 }
