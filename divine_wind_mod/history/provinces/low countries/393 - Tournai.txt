@@ -5,7 +5,6 @@ life_rating = 35
     owner = HIN
 	controller = HIN
 	add_core = HIN
-	add_core = BUP
 }
 
 1800.1.1 = {
