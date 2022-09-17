@@ -10,7 +10,6 @@ life_rating = 35
 	owner = NOV
 	controller = NOV
 	add_core = NOV
-	add_core = SWE
 }
 1800.1.1 = {
 	owner = RUS

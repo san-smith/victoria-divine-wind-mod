@@ -5,7 +5,6 @@ life_rating = 35
 	owner = HLD
 	controller = HLD
 	add_core = HLD
-	add_core = BUP
 }
 	
 1800.1.1 = {

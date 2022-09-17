@@ -3,7 +3,6 @@ primary_culture = tatar
 culture = bashkir
 culture = kazak
 culture = crimean_tatar
-culture = nogais
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0

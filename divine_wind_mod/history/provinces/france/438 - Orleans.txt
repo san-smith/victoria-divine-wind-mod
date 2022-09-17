@@ -14,6 +14,7 @@ life_rating = 30
     owner = ORL
     controller = ORL
     add_core = ORL
+	add_core = FRA
 }	
 1800.1.1 = {
    owner = FRA
