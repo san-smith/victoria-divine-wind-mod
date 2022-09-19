@@ -446,6 +446,8 @@ DEC 	= "countries/Deccan.txt"
 VIJ 	= "countries/Vijayanagara.txt"
 GON 	= "countries/Gondwana.txt"
 BIH 	= "countries/Bihar.txt"
-MLD 	= "countries/Maldive.txt"
 BEN 	= "countries/Benglia.txt"
 ASS 	= "countries/Assam.txt"
+
+# Eastern Asia
+ARK 	= "countries/Arakan.txt"
